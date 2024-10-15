@@ -1,0 +1,16 @@
+body {
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    margin: 20px;
+    padding: 20px;
+}
+h1 {
+    color: #333;
+}
+nav a {
+    margin-right: 15px;
+    text-decoration: none;
+    color: #0066cc;
+}
+nav a:hover {
+    text-decoration: underline;
+}
