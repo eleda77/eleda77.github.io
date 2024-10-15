@@ -1,1 +1,2 @@
-# eleda77.github.io
+# Website Portfolio
+A place for me to store random stuff and practice my website-building skills!
