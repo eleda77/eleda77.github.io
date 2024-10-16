@@ -1,14 +1,14 @@
 title: Eleda's Adventures
 description: Venture through my website and discover a vague semblance of knowledge
 remote_theme: jekyll/minima
-url: "eleda77.github.io" 
+url: "http://eleda77.github.io" 
 
 
 minima:
   skin: dark
 
 author:
-  name: "Eleda Yellek"
+  name: "Eleda of the Seventy-Seven"
   email: "adeleelda04@gmail.com"
 
 header_pages:

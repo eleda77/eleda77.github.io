@@ -103,24 +103,36 @@
     <div class="footer-col-wrapper">
       <div class="footer-col">
         <p class="feed-subscribe">
-          <a href="feed:http://localhost:4000/feed.xml" id="rss-subscribe">
+          <a href="/feed.xml" id="rss-subscribe">
             <svg class="svg-icon blue">
               <use xlink:href="/assets/minima-social-icons.svg#rss"></use>
             </svg><span>Subscribe</span>
           </a>
         </p>
-        <!-- Rest of your footer content -->
+          <ul class="contact-list">
+            <li class="p-name">Eleda Yellek</li>
+            <li><a class="u-email" href="mailto:adeleelda04@gmail.com">adeleelda04@gmail.com</a></li>
+          </ul>
+      </div>
+      <div class="footer-col">
+        <p>Venture through my website and discover a vague semblance of knowledge</p>
       </div>
     </div>
+
+    <div class="social-links"><ul class="social-media-list"></ul>
+</div>
 
   </div>
 
   <script>
     document.getElementById('rss-subscribe').addEventListener('click', function(e) {
-      var feedUrl = this.href;
-      if (!navigator.userAgent.match(/^((?!chrome|android).)*safari/i)) {
-        e.preventDefault();
-        window.open('https://feedly.com/i/subscription/feed/' + encodeURIComponent(feedUrl.replace(/^feed:/, '')), '_blank');
+      e.preventDefault();
+      var feedUrl = 'https://eleda77.github.io/feed.xml';
+      if (navigator.userAgent.match(/^((?!chrome|android).)*safari/i)) {
+        window.location.href = 'feed:' + feedUrl;
+      } else {
+        var feedlyUrl = 'https://feedly.com/i/subscription/feed/' + encodeURIComponent(feedUrl);
+        window.open(feedlyUrl, '_blank');
       }
     });
   </script>
