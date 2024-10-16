@@ -47,3 +47,18 @@
   background-color: rgba(24, 24, 24, 0.8);
   box-shadow: 0 0 10px rgba(167, 64, 236, 0.3);
 }
+
+/* Media query for mobile devices */
+@media screen and (max-width: 768px) {
+  .pinned-nav {
+    display: none; /* Hide the navigation bar */
+  }
+  
+  .main-content {
+    padding-left: 0;
+  }
+  
+  .main-content {
+    width: 100%;
+  }
+}

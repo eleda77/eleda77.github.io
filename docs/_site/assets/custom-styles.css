@@ -48,7 +48,6 @@
   box-shadow: 0 0 10px rgba(167, 64, 236, 0.3);
 }
 
-
 /* Media query for mobile devices */
 @media screen and (max-width: 768px) {
   .pinned-nav {
