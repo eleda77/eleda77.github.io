@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+
+    {%- include header.html -%}
+
+    <nav class="pinned-nav">
+      <h3>Index</h3>
+      <ul>
+        <li><a href="#header-title-0">Top!</a></li>
+        <li><a href="#header-title-1">A</a></li>
+        <li><a href="#header-title-2">B</a></li>
+        <li><a href="#header-title-3">C</a></li>
+        <li><a href="#header-title-4">D</a></li>
+        <li><a href="#header-title-5">E</a></li>
+        <li><a href="#header-title-6">F</a></li>
+        <li><a href="#header-title-7">G</a></li>
+        <li><a href="#header-title-8">H</a></li>
+        <li><a href="#header-title-9">I</a></li>
+        <li><a href="#header-title-10">J</a></li>
+        <li><a href="#header-title-11">K</a></li>
+        <li><a href="#header-title-12">L</a></li>
+        <li><a href="#header-title-13">M</a></li>
+        <li><a href="#header-title-14">N</a></li>
+        <li><a href="#header-title-15">O</a></li>
+        <li><a href="#header-title-16">P</a></li>
+        <li><a href="#header-title-17">Q</a></li>
+        <li><a href="#header-title-18">R</a></li>
+        <li><a href="#header-title-19">S</a></li>
+        <li><a href="#header-title-20">T</a></li>
+        <li><a href="#header-title-21">U</a></li>
+        <li><a href="#header-title-22">V</a></li>
+        <li><a href="#header-title-23">W</a></li>
+        <li><a href="#header-title-24">X</a></li>
+        <li><a href="#header-title-25">Y</a></li>
+        <li><a href="#header-title-26">Z</a></li>
+        <!-- Add more links for each H3 header -->
+      </ul>
+    </nav>
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+
+  </body>
+
+</html>

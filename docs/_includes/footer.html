@@ -1,0 +1,30 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col">
+        <p class="feed-subscribe">
+          <a href="feed:{{ site.feed.path | default: 'feed.xml' | absolute_url }}" id="rss-subscribe">
+            <svg class="svg-icon blue">
+              <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
+            </svg><span>Subscribe</span>
+          </a>
+        </p>
+        <!-- Rest of your footer content -->
+      </div>
+    </div>
+
+  </div>
+
+  <script>
+    document.getElementById('rss-subscribe').addEventListener('click', function(e) {
+      var feedUrl = this.href;
+      if (!navigator.userAgent.match(/^((?!chrome|android).)*safari/i)) {
+        e.preventDefault();
+        window.open('https://feedly.com/i/subscription/feed/' + encodeURIComponent(feedUrl.replace(/^feed:/, '')), '_blank');
+      }
+    });
+  </script>
+</footer>

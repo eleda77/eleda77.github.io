@@ -1,0 +1,49 @@
+.pinned-nav {
+  position: fixed;
+  top: 8%;
+  left: 8%;
+  background: #181818;
+  border: 1.5px solid #404040;
+  padding: 8px;
+  border-radius: 7px;
+  width: 5%;
+  max-width: 100px;
+  min-width: 10px;
+  z-index: 1000;
+}
+
+.pinned-nav h3 {
+  font-size: 1.2em;
+  margin: 0 0 5px;
+  text-align: center;
+}
+
+.pinned-nav ul {
+  list-style-type: none;
+  padding: 0;
+  text-align: center;
+  margin: 2px 0;
+}
+
+.pinned-nav ul li {
+  margin: 2px 0; /* Reduced from 5px to 2px */
+  overflow: visible;
+}
+
+.pinned-nav ul li a {
+  text-decoration: none;
+  color: #f7c3ef;
+  display: inline-block;
+  transition: all 0.3s ease;
+  position: relative;
+  padding: 1px 3px; /* Reduced padding */
+  border-radius: 3px;
+}
+
+.pinned-nav ul li a:hover {
+  text-decoration: underline;
+  color: #a740ec;
+  transform: translateX(5px) scale(1.2);
+  background-color: rgba(24, 24, 24, 0.8);
+  box-shadow: 0 0 10px rgba(167, 64, 236, 0.3);
+}
