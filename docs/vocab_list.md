@@ -13,6 +13,8 @@ These are some words I have collected over the past few months, many of them com
 
 **antemeridian** - occurring before noon (in the forenoon)
 
+**artic** - short for articulated vehicle/lorry (large vehicle that has two sections connected by a bar)
+
 **aspergill** - a short-handled device with a globe containing a sponge; used for sprinkling holy water
 
 **atlatl** - wooden implement used to throw a spear or similar weapon at a greater speed or distance
@@ -24,6 +26,8 @@ These are some words I have collected over the past few months, many of them com
 **baldachin** - a ceremonial canopy of stone, metal, or fabric over an altar, throne, or doorway
 
 **bole** - the stem or trunk of a tree
+
+**bollard** - a short, thick post that boats can be tied to or the ones on streets
 
 **brachiate** - move by using the arms to swing from branch to branch (or just having arms as an adjective lol)
 ### C {#header-title-3}
@@ -43,6 +47,10 @@ These are some words I have collected over the past few months, many of them com
 
 **chitinous** - having the quality of a tough, semitransparent substance that is main component of exoskeletons of arthropods (crustaceans) 
 
+**cladding** - the application of one material over another to provide a skin or layer
+
+**cochineal** - a scarlet dye used chiefly for coloring food
+
 **contumacious** - refusing to obey or respect the law in a way that shows contempt
 
 **convolve** - to roll or wind together; coil; twist
@@ -54,12 +62,16 @@ These are some words I have collected over the past few months, many of them com
 
 **declaim** - utter or deliver words or a speech in a rhetorical or impassioned way, as if to an audience
 
+**dexiosis** - the representation of two people offering each other their right hand
+
 **distaff** - a stick or spindle on to which wool or flax is wound for spinning; of or relating to women
 ### E {#header-title-5}
 **eructation** - a belch
 
 **exiguous** - very small in size or amount
 ### F {#header-title-6}
+**faience** - glazed earthenware or pottery, especially a fine variety with highly colored designs
+
 **fingle** - gross way to say to finger (verb)
 
 **fletton** - a type of relatively soft and porous brick made from Oxford clay
@@ -72,11 +84,15 @@ These are some words I have collected over the past few months, many of them com
 ### G {#header-title-7}
 **gaskin** - the muscular part of the hind leg of a horse between the stifle and the hock (whatever those are (like above the knee))
 
+**gazump** - raise the contracted price of a property after having informally accepted a lower offer; ie swindle
+
 **geas** - a vow or obligation placed upon a person
 
 **gnomic(-ally)** - consisting of, containing, or relating to gnomes or aphorisms
 
 **gnomon** - the raised part of a sundial that casts the shadow; a style
+
+**guzunder** - another word for chamber pot (because it 'guzunder' the bed)
 ### H {#header-title-8}
 **hagger** - I swear he made this up
 
@@ -95,6 +111,8 @@ These are some words I have collected over the past few months, many of them com
 **jess** - a short leather strap that is fastened round each leg of a hawk
 
 **jounce** - move up and down suddenly
+
+**juugly** - (for eggs) with the white all sticky and runny and full of slimy bits (Pratchett made this up for sure)
 ### K {#header-title-11}
 **kibitz** - look on and offer unwelcome advice, especially at a card game; speak informally/chat
 
@@ -105,6 +123,10 @@ These are some words I have collected over the past few months, many of them com
 **knurd** -  a coinage formed by spelling drunk backwards (those who would rather study than party)
 ### L {#header-title-12}
 **laminar** - relating to or consisting of thin layers
+
+**lintel** - a horizontal support of timber, stone, concrete, or steel across the top of a door or window.
+
+**lunette** - something that has the shape of a crescent or half-moon
 ### M {#header-title-13}
 **macaronic** - denoting language containing words or inflections from one language introduced into the context of another
 
@@ -124,6 +146,8 @@ These are some words I have collected over the past few months, many of them com
 
 **moule** - an edible type of mussel
 ### N {#header-title-14}
+**nasothek** - a collection of sculpted noses
+
 **nugatory** - of no value or importance
 
 **nuncle** - a person's uncle (archaic)
@@ -132,9 +156,13 @@ These are some words I have collected over the past few months, many of them com
 
 **orgulous** - haughty
 ### P  {#header-title-16}
+**palestra** - a public place for training or exercise in wrestling or athletics (in Greek antiquity)
+
 **pannier** - a basket, especially one of a pair carried by a beast of burden
 
 **peristalsis** - involuntary muscle movement that moves food through your gastrointestinal tract
+
+**peristyle** - a row of columns surrounding a space within a building such as a court or edging a veranda or porch
 
 **pessimal** - bad to a maximal extent; worst
 
@@ -142,8 +170,14 @@ These are some words I have collected over the past few months, many of them com
 
 **plectrum** - ancient guitar pick (like for lyre)
 
+**protome** - type of adornment that takes the form of the head and upper torso of either a human or an animal
+
+**puddler** - a worker who turns pig iron into wrought iron by puddling
+
 **puissant** - powerful or strong
 ### Q  {#header-title-17}
+**quelch** - to squelch; to eliminate
+
 ### R  {#header-title-18}
 **raconteur** - a person who excels in telling anecdotes
 
@@ -161,6 +195,8 @@ These are some words I have collected over the past few months, many of them com
 
 **scritter** - I think Pratchett just made this up
 
+**scrimshaw** - carved or engraved articles made originally by American whalers usually from baleen or whale teeth
+
 **scrum** - a disorderly crowd of people or things
 
 **seraglio** - the women's apartments (harem) in an Ottoman palace
@@ -177,10 +213,12 @@ These are some words I have collected over the past few months, many of them com
 
 **sprog** - a child, or military recruit/trainee (verb to have a baby)
 
-**stele**- the central core of the stem and root of a vascular plant, consisting of the vascular tissue (xylem & phloem)
+**stela/stele** - an upright stone slab or column typically bearing a commemorative inscription or relief design, often serving as a gravestone
 
 **systolic** - relating to the phase of the heartbeat when the heart contracts and pumps blood from chambers into arteries
 ### T  {#header-title-20}
+**tachometer** - an instrument which measures the working speed of an engine, usually in rpm
+
 **tantric** - based on ancient Hindu or Buddhist texts
 
 **thurible** - a censer (swinging incense thing at church)
@@ -189,10 +227,16 @@ These are some words I have collected over the past few months, many of them com
 
 **treadle** - a lever worked by the foot and imparting motion to a machine, or to operate (a machine) with a treadle
 
+**trilithon** - an ancient stone monument consisting of two upright megaliths carrying a third as a lintel
+
 **trireme** - an ancient Greek or Roman war galley with three banks of oars
 
 **tumulus** - an ancient burial mound; a barrow
 ### U  {#header-title-21}
+**underbreath** - whisper, undertone (noun)
+
+**utricle** - any of various small pouches or saccate parts of an animal or plant
+
 ### V  {#header-title-22}
 **vambrace** - piece of armor for the forearm
 
@@ -208,6 +252,12 @@ These are some words I have collected over the past few months, many of them com
 
 **wot** - nonstandard British way of spelling what ("WOT? Where's my food?")
 ### X  {#header-title-24}
+**xeric** - of, relating to, or adapted to a dry environment
+
 ### Y  {#header-title-25}
+**yaff** - to bark, yelp, yap
+
 ### Z  {#header-title-26}
+**zatch** - the stomach ("Worse. I shall have to rip him from his guggle to his zatch" *~The Thirteen Clocks* by James Thurber)
+
 **zeugma** - a figure of speech in which a word applies to two others in different senses (e.g. John and his driving licence expired last week)
