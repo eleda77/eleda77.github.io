@@ -11,6 +11,8 @@ These are some words I have collected over the past few months, many of them com
 
 **actinic** - caused by sunlight
 
+**affray** - an instance of fighting in a public place that disturbs the peace
+
 **antemeridian** - occurring before noon (in the forenoon)
 
 **artic** - short for articulated vehicle/lorry (large vehicle that has two sections connected by a bar)
@@ -21,8 +23,12 @@ These are some words I have collected over the past few months, many of them com
 
 **aurochs** - a large, black European wild ox, extinct
 
+**autocondimentor** - that interesting type of person who automatically adds seasoning to their food no matter the dish or circumstances, irregardless of flavour (definitely a Pratchett-invented word)
+
 **avaunt** -  go away! depart! hence (archaic)
 ### B {#header-title-2}
+**baize** - a coarse, typically green woollen material resembling felt, used especially for covering pool, snooker, and billiard tables
+
 **baldachin** - a ceremonial canopy of stone, metal, or fabric over an altar, throne, or doorway
 
 **bole** - the stem or trunk of a tree
@@ -30,12 +36,18 @@ These are some words I have collected over the past few months, many of them com
 **bollard** - a short, thick post that boats can be tied to or the ones on streets
 
 **brachiate** - move by using the arms to swing from branch to branch (or just having arms as an adjective lol)
+
+**brassica** - a plant of a genus that includes cabbage, turnip, Brussels sprout, and mustard
 ### C {#header-title-3}
 **calenture** - a violent fever with delirium, affecting persons in the tropics (or sailors)
 
 **calcareous** - chalky
 
+**calkin** - a metal cleat on the bottom front of a horseshoe to prevent slipping
+
 **caltrap** - area denial weapon made up of 4+ nails arranged so that one of them always points upward from stable base (pointy to step on)
+
+**carbuncle** - something, especially a building, that is unsightly or visually intrusive (also a gem, British)
 
 **carillion** - a set of bells in a tower, played using a keyboard or by an automatic mechanism similar to a piano roll
 
@@ -51,13 +63,17 @@ These are some words I have collected over the past few months, many of them com
 
 **cochineal** - a scarlet dye used chiefly for coloring food
 
+**contraindication** - a specific situation in which a medicine, procedure, or surgery should not be used because it may be harmful to the person
+
 **contumacious** - refusing to obey or respect the law in a way that shows contempt
 
 **convolve** - to roll or wind together; coil; twist
 
-**corruscate** -  to give off or reflect light in bright beams or flashes, sparkle
+**coruscate** -  to give off or reflect light in bright beams or flashes, sparkle
 
 **cresset** - a metal container of oil, grease, wood, or coal set alight for illumination and typically mounted on a pole.
+
+**cruet** - a small container or set of containers for salt, pepper, oil, or vinegar for use at a dining table; also used for wine/water in celebration of the Eucharist
 ### D {#header-title-4}
 
 **declaim** - utter or deliver words or a speech in a rhetorical or impassioned way, as if to an audience
@@ -67,6 +83,8 @@ These are some words I have collected over the past few months, many of them com
 **distaff** - a stick or spindle on to which wool or flax is wound for spinning; of or relating to women
 ### E {#header-title-5}
 **eructation** - a belch
+
+**eschatological** - relating to death, judgment, and the final destiny of the soul and of humankind
 
 **exiguous** - very small in size or amount
 ### F {#header-title-6}
@@ -88,6 +106,8 @@ These are some words I have collected over the past few months, many of them com
 
 **geas** - a vow or obligation placed upon a person
 
+**gimlet** - a small T-shaped tool with a screw-tip for boring holes
+
 **gnomic(-ally)** - consisting of, containing, or relating to gnomes or aphorisms
 
 **gnomon** - the raised part of a sundial that casts the shadow; a style
@@ -106,6 +126,8 @@ These are some words I have collected over the past few months, many of them com
 
 **humdinger** - a remarkable or outstanding person or thing of its kind
 ### I {#header-title-9}
+**imprecation** - a spoken curse or offensive word(s)
+
 **inhume** - to bury (opp of exhume)
 ### J {#header-title-10}
 **jess** - a short leather strap that is fastened round each leg of a hawk
@@ -148,6 +170,10 @@ These are some words I have collected over the past few months, many of them com
 ### N {#header-title-14}
 **nasothek** - a collection of sculpted noses
 
+**noonlight** - the light of noon, the brightest daylight
+
+**noonstead** - the position of the sun at noon
+
 **nugatory** - of no value or importance
 
 **nuncle** - a person's uncle (archaic)
@@ -166,15 +192,25 @@ These are some words I have collected over the past few months, many of them com
 
 **pessimal** - bad to a maximal extent; worst
 
+**piscatorial** - of or concerning fishermen or fishing
+
 **plangent** - loud and resonant, with a mournful tone (of a sound)
 
 **plectrum** - ancient guitar pick (like for lyre)
+
+**post-prandial** - during or relating to the period after dinner or lunch
+
+**postern** - a back or side entrance
+
+**propinquity** -  the state of being close to someone or something; proximity OR a close kinship
 
 **protome** - type of adornment that takes the form of the head and upper torso of either a human or an animal
 
 **puddler** - a worker who turns pig iron into wrought iron by puddling
 
 **puissant** - powerful or strong
+
+**punnet** - a small light basket or other container for fruit or vegetables
 ### Q  {#header-title-17}
 **quelch** - to squelch; to eliminate
 
@@ -198,6 +234,10 @@ These are some words I have collected over the past few months, many of them com
 **scrimshaw** - carved or engraved articles made originally by American whalers usually from baleen or whale teeth
 
 **scrum** - a disorderly crowd of people or things
+
+**scumble** - modify (a painting or drawing) to give it a softer or duller effect
+
+**scunner** - a strong dislike, also to be in a state of disgusted irritation
 
 **seraglio** - the women's apartments (harem) in an Ottoman palace
 
