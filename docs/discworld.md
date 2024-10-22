@@ -14,6 +14,8 @@ For all that cool Discworld stuff!
 * Pyramids
 * Sourcery
 * Faust Eric
+* The Wee Free Men
+* Mort
 
 ##### Honorable Mentions (Others by Pratchett)
 * Good Omens
