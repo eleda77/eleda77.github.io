@@ -7,6 +7,8 @@
 [build.environment]
   RUBY_VERSION = "3.2.2"
   JEKYLL_ENV = "production"
+  JEKYLL_GITHUB_TOKEN = ""
+  PAGES_REPO_NWO = "eleda77/eleda77.github.io"
 
 [[headers]]
   for = "/*"
