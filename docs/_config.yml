@@ -1,7 +1,7 @@
 title: Eleda's Adventures
 description: Venture through my website and discover a vague semblance of knowledge
 remote_theme: jekyll/minima
-url: "https://your-netlify-url.netlify.app" # Change this to your Netlify URL
+url: "https://eleda77.netlify.app/"
 baseurl: ""
 
 minima:
