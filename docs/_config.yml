@@ -1,8 +1,8 @@
 title: Eleda's Adventures
 description: Venture through my website and discover a vague semblance of knowledge
 remote_theme: jekyll/minima
-url: "http://eleda77.github.io" 
-
+url: "https://eleda77.netlify.app/"
+baseurl: ""
 
 minima:
   skin: dark
@@ -19,6 +19,7 @@ header_pages:
 
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 feed:
   path: feed.xml

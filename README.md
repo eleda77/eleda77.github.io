@@ -1,2 +1,2 @@
 # Website Portfolio
-A place for me to store random stuff and practice my website-building skills!
+A place for me to store random stuff and practice my website-building skills! This website can now be accessed at https://eleda77.netlify.app/ rather than through Github Pages to allow the X-Clacks-Overhead HTTP header to run properly. 
