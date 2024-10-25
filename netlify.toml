@@ -1,0 +1,12 @@
+# netlify.toml
+[build]
+  command = "jekyll build"
+  publish = "docs/_site"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Clacks-Overhead = "GNU Terry Pratchett"
+
+[build.environment]
+  JEKYLL_ENV = "production"
