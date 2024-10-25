@@ -59,7 +59,7 @@
         </nav></div>
   </header><main class="page-content" aria-label="Content">
       <div class="wrapper">
-        <div class="home"><h1 class="page-heading">Eleda's Adventures</h1><p>Why hello there, welcome to my site! Here I will post some random ramblings about things that interest me, and may or may not interest you. Feel free to poke around the site, and do check out <a href="/vocab_list.html">my vocab list</a> as I’m rather proud of it.</p>
+        <div class="home"><h1 class="page-heading">Eleda's Adventures</h1><p>Why hello there, welcome to my site! Here I will post some random ramblings about things that interest me, and may or may not interest you. Feel free to poke around the site, and do check out <a href="vocab_list.md">my vocab list</a> as I’m rather proud of it.</p>
 
 
 
@@ -105,11 +105,11 @@
   <script>
     document.getElementById('rss-subscribe').addEventListener('click', function(e) {
       e.preventDefault();
-      var feedUrl = 'https://eleda77.github.io/feed.xml';
+      var feedUrl = 'https://eleda77.netlify.app/feed.xml';
       if (navigator.userAgent.match(/^((?!chrome|android).)*safari/i)) {
         window.location.href = 'feed:' + feedUrl;
       } else {
-        var feedlyUrl = 'https://feedly.com/i/subscription/feed/' + encodeURIComponent(feedUrl);
+        var feedlyUrl = 'https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Feleda77.netlify.app%2Ffeed.xml';
         window.open(feedlyUrl, '_blank');
       }
     });

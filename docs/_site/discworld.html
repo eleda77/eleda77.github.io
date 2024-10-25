@@ -129,11 +129,11 @@
   <script>
     document.getElementById('rss-subscribe').addEventListener('click', function(e) {
       e.preventDefault();
-      var feedUrl = 'https://eleda77.github.io/feed.xml';
+      var feedUrl = 'https://eleda77.netlify.app/feed.xml';
       if (navigator.userAgent.match(/^((?!chrome|android).)*safari/i)) {
         window.location.href = 'feed:' + feedUrl;
       } else {
-        var feedlyUrl = 'https://feedly.com/i/subscription/feed/' + encodeURIComponent(feedUrl);
+        var feedlyUrl = 'https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Feleda77.netlify.app%2Ffeed.xml';
         window.open(feedlyUrl, '_blank');
       }
     });
