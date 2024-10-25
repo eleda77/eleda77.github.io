@@ -1,0 +1,25 @@
+# .github/workflows/static.yml
+name: Configure Custom Headers
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Setup Headers
+      run: |
+        cd docs
+        echo '/*' > _headers
+        echo '  X-Clacks-Overhead: "GNU Terry Pratchett"' >> _headers
+
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./docs
+        enable_jekyll: true

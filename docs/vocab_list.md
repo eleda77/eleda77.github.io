@@ -13,7 +13,11 @@ These are some words I have collected over the past few months, many of them com
 
 **affray** - an instance of fighting in a public place that disturbs the peace
 
+**alembic** - a distilling apparatus, now obsolete, consisting of a gourd-shaped container and a cap with a long beak for conveying the products to a receiver
+
 **antemeridian** - occurring before noon (in the forenoon)
+
+**argosy** - a large merchant ship, originally one from Ragusa (now Dubrovnik) or Venice; an opulent supply
 
 **artic** - short for articulated vehicle/lorry (large vehicle that has two sections connected by a bar)
 
@@ -96,7 +100,11 @@ These are some words I have collected over the past few months, many of them com
 
 **flocculent** - soft and woolly, fluffy
 
-**forenoon** (as opposed to the afternoon)
+**forenoon** - morning (as opposed to the afternoon)
+
+**for(e)gather** - assemble or gather together
+
+**fritillary** - a butterfly with orange-brown wings that are chequered with black
 
 **fusillade** - large number of shots or objects fired or thrown at the same time
 ### G {#header-title-7}
@@ -186,6 +194,8 @@ These are some words I have collected over the past few months, many of them com
 
 **pannier** - a basket, especially one of a pair carried by a beast of burden
 
+**paternoster** - a lift consisting of a series of linked compartments moving continuously on an endless belt
+
 **peristalsis** - involuntary muscle movement that moves food through your gastrointestinal tract
 
 **peristyle** - a row of columns surrounding a space within a building such as a court or edging a veranda or porch
@@ -239,6 +249,8 @@ These are some words I have collected over the past few months, many of them com
 
 **scunner** - a strong dislike, also to be in a state of disgusted irritation
 
+**selachian** -  any of the classified group (Selachii) of cartilaginous fishes that includes the existing sharks and dogfishes among others
+
 **seraglio** - the women's apartments (harem) in an Ottoman palace
 
 **sgurr** - a high sharp-pointed hill or a large conical hill
@@ -272,6 +284,8 @@ These are some words I have collected over the past few months, many of them com
 **trireme** - an ancient Greek or Roman war galley with three banks of oars
 
 **tumulus** - an ancient burial mound; a barrow
+
+**turf** - force (someone) to leave somewhere (British)
 ### U  {#header-title-21}
 **underbreath** - whisper, undertone (noun)
 
@@ -279,6 +293,8 @@ These are some words I have collected over the past few months, many of them com
 
 ### V  {#header-title-22}
 **vambrace** - piece of armor for the forearm
+
+**veldt** - open, uncultivated country or grassland in southern Africa, conventionally divided by altitude into highveld, middleveld, and lowveld
 
 **votive** - offered or consecrated in fulfillment of a vow
 ### W  {#header-title-23}
