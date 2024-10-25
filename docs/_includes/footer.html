@@ -37,7 +37,7 @@
   <script>
     document.getElementById('rss-subscribe').addEventListener('click', function(e) {
       e.preventDefault();
-      var feedUrl = 'https://eleda77.github.io/feed.xml';
+      var feedUrl = 'https://eleda77.netlify.app/feed.xml';
       if (navigator.userAgent.match(/^((?!chrome|android).)*safari/i)) {
         window.location.href = 'feed:' + feedUrl;
       } else {
