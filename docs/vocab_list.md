@@ -9,11 +9,17 @@ These are some words I have collected over the past few months, many of them com
 
 **abrade** - scrape or wear away by friction or erosion
 
+**abseil** - to go down a very steep slope by holding on to a rope that is fastened to the top of the slope
+
 **actinic** - caused by sunlight
 
 **affray** - an instance of fighting in a public place that disturbs the peace
 
 **alembic** - a distilling apparatus, now obsolete, consisting of a gourd-shaped container and a cap with a long beak for conveying the products to a receiver
+
+**alluvial** - made up of sand and earth left by rivers, floods, etc
+
+**anecdata** - evidence based on a collection of anecdotes or personal experiences, can be very subjective
 
 **antemeridian** - occurring before noon (in the forenoon)
 
@@ -51,6 +57,8 @@ These are some words I have collected over the past few months, many of them com
 
 **caltrap** - area denial weapon made up of 4+ nails arranged so that one of them always points upward from stable base (pointy to step on)
 
+**cannonade** - a heavy fire of artillery; an attack (as with words) likened to artillery fire : bombardment
+
 **carbuncle** - something, especially a building, that is unsightly or visually intrusive (also a gem, British)
 
 **carillion** - a set of bells in a tower, played using a keyboard or by an automatic mechanism similar to a piano roll
@@ -82,9 +90,15 @@ These are some words I have collected over the past few months, many of them com
 
 **declaim** - utter or deliver words or a speech in a rhetorical or impassioned way, as if to an audience
 
+**demimonde** -  a class of women considered to be of doubtful social standing and morality; a group of people on the fringes of respectable society
+
 **dexiosis** - the representation of two people offering each other their right hand
 
 **distaff** - a stick or spindle on to which wool or flax is wound for spinning; of or relating to women
+
+**dobby** - (no, not the house elf) a loom attachment for weaving small figures
+
+**drumlin** - oan val-shaped hill, largely composed of glacial drift, formed beneath a glacier or ice sheet and aligned in the direction of ice flow
 ### E {#header-title-5}
 **eructation** - a belch
 
@@ -93,6 +107,8 @@ These are some words I have collected over the past few months, many of them com
 **exiguous** - very small in size or amount
 ### F {#header-title-6}
 **faience** - glazed earthenware or pottery, especially a fine variety with highly colored designs
+
+**farrago** - a confused mixture, a hodgepodge
 
 **fingle** - gross way to say to finger (verb)
 
@@ -105,6 +121,8 @@ These are some words I have collected over the past few months, many of them com
 **for(e)gather** - assemble or gather together
 
 **fritillary** - a butterfly with orange-brown wings that are chequered with black
+
+**furze** - another term for gorse (a type of shrub)
 
 **fusillade** - large number of shots or objects fired or thrown at the same time
 ### G {#header-title-7}
@@ -164,7 +182,9 @@ These are some words I have collected over the past few months, many of them com
 
 **martlet** - a mythical bird without feet that never roosts from the moment of its drop-birth until its death fall
 
-**mastaba** - an ancient Egyptian tomb consisting of an underground burial chamber with rooms above it (at ground level) to store offerings.
+**mastaba** - an ancient Egyptian tomb consisting of an underground burial chamber with rooms above it (at ground level) to store offerings
+
+**maunder** - talk in a rambling manner; move or act in a dreamy or idle manner
 
 **mephitic** - foul-smelling (usually of a gas)
 
@@ -175,8 +195,12 @@ These are some words I have collected over the past few months, many of them com
 **morganatic** - marriage to someone of a lower class such that they can't inherit the title of nobility/royalty
 
 **moule** - an edible type of mussel
+
+**muzzy** - unable to think clearly; confused; blurred, indistinct
 ### N {#header-title-14}
 **nasothek** - a collection of sculpted noses
+
+**nonce** - (of a word or expression) coined for one occasion; the time being; (also a word for sex offender)
 
 **noonlight** - the light of noon, the brightest daylight
 
@@ -189,6 +213,8 @@ These are some words I have collected over the past few months, many of them com
 **oik** - an uncouth or obnoxious person
 
 **orgulous** - haughty
+
+**ostler** - a man employed to look after the horses of people staying at an inn
 ### P  {#header-title-16}
 **palestra** - a public place for training or exercise in wrestling or athletics (in Greek antiquity)
 
@@ -196,11 +222,15 @@ These are some words I have collected over the past few months, many of them com
 
 **paternoster** - a lift consisting of a series of linked compartments moving continuously on an endless belt
 
+**peignoir** - a woman's loose negligee or dressing gown
+
 **peristalsis** - involuntary muscle movement that moves food through your gastrointestinal tract
 
 **peristyle** - a row of columns surrounding a space within a building such as a court or edging a veranda or porch
 
 **pessimal** - bad to a maximal extent; worst
+
+**phantasmagoria** - a sequence of real or imaginary images like that seen in a dream
 
 **piscatorial** - of or concerning fishermen or fishing
 
@@ -208,9 +238,13 @@ These are some words I have collected over the past few months, many of them com
 
 **plectrum** - ancient guitar pick (like for lyre)
 
+**plongeon** - the act of diving into the water
+
 **post-prandial** - during or relating to the period after dinner or lunch
 
 **postern** - a back or side entrance
+
+**prestidigator** - a performer who uses tricks and sleight-of-hand to entertain the crowd
 
 **propinquity** -  the state of being close to someone or something; proximity OR a close kinship
 
@@ -231,6 +265,8 @@ These are some words I have collected over the past few months, many of them com
 ### S  {#header-title-19}
 **salicaceous** - of, relating to, or belonging to the Salicaceae, a chiefly N temperate family of trees and shrubs having catkins
 
+**samizdat** - he clandestine copying and distribution of literature banned by the state, especially formerly in the communist countries of eastern Europe
+
 **sarsenet** - a fine, soft silk fabric, used as a lining material and in dressmaking
 
 **saveloy** - a highly seasoned dry sausage
@@ -242,6 +278,8 @@ These are some words I have collected over the past few months, many of them com
 **scritter** - I think Pratchett just made this up
 
 **scrimshaw** - carved or engraved articles made originally by American whalers usually from baleen or whale teeth
+
+**scringe** - cringe, flinch; to flog the water in fishing (scringeing)
 
 **scrum** - a disorderly crowd of people or things
 
@@ -263,9 +301,13 @@ These are some words I have collected over the past few months, many of them com
 
 **smutty** - soiled or tainted with smut (or obscene/indecent)
 
+**sparge** - moisten by sprinkling with water, especially in brewing
+
 **sprog** - a child, or military recruit/trainee (verb to have a baby)
 
 **stela/stele** - an upright stone slab or column typically bearing a commemorative inscription or relief design, often serving as a gravestone
+
+**stook** - a group of sheaves of grain stood on end in a field
 
 **systolic** - relating to the phase of the heartbeat when the heart contracts and pumps blood from chambers into arteries
 ### T  {#header-title-20}
@@ -276,6 +318,8 @@ These are some words I have collected over the past few months, many of them com
 **thurible** - a censer (swinging incense thing at church)
 
 **tocsin** - an alarm bell or signal (archaic use)
+
+**toxophily** - love of the bow (as in bow and arrow/archery)
 
 **treadle** - a lever worked by the foot and imparting motion to a machine, or to operate (a machine) with a treadle
 
@@ -305,6 +349,8 @@ These are some words I have collected over the past few months, many of them com
 **welchet** - made up by Pratchett but "a type of waistcoat worn by certain clock-makers"
 
 **winge** - to complain or whine (british spelling of whinge)
+
+**woad** - a yellow-flowered European plant of the cabbage family; formerly used to extract blue dye from
 
 **wot** - nonstandard British way of spelling what ("WOT? Where's my food?")
 ### X  {#header-title-24}
