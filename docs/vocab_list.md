@@ -23,6 +23,8 @@ These are some words I have collected over the past few months, many of them com
 
 **antemeridian** - occurring before noon (in the forenoon)
 
+**antiprism** - olytope built from two parallel bases, dual to one another (yeah I don't know what that means either but just look up a picture, it's easier)
+
 **argosy** - a large merchant ship, originally one from Ragusa (now Dubrovnik) or Venice; an opulent supply
 
 **artic** - short for articulated vehicle/lorry (large vehicle that has two sections connected by a bar)
@@ -71,7 +73,11 @@ These are some words I have collected over the past few months, many of them com
 
 **chitinous** - having the quality of a tough, semitransparent substance that is main component of exoskeletons of arthropods (crustaceans) 
 
-**cladding** - the application of one material over another to provide a skin or layer
+**chitterling** - the smaller intestines of a pig, cooked as food (yuck)
+
+**cittern** - a Renaissance stringed instrument like a guitar with a flat pear-shaped body
+
+**cladding** - the application of one material over another to provide a skin or layer (noun form of clad)
 
 **cochineal** - a scarlet dye used chiefly for coloring food
 
@@ -190,7 +196,11 @@ These are some words I have collected over the past few months, many of them com
 
 **mogadored** - confused or perplexed
 
+**monoxyl/monoxylon** - a canoe or boat made from a single piece of timber
+
 **moraine** - accumulation of earth and stones carried and finally deposited by a glacier
+
+**mordant** - (especially of humour) having or showing a sharp or critical quality; biting
 
 **morganatic** - marriage to someone of a lower class such that they can't inherit the title of nobility/royalty
 
@@ -200,6 +210,8 @@ These are some words I have collected over the past few months, many of them com
 ### N {#header-title-14}
 **nasothek** - a collection of sculpted noses
 
+**nom de guerre** - an assumed name under which a person engages in combat or some other activity or enterprise
+
 **nonce** - (of a word or expression) coined for one occasion; the time being; (also a word for sex offender)
 
 **noonlight** - the light of noon, the brightest daylight
@@ -208,8 +220,12 @@ These are some words I have collected over the past few months, many of them com
 
 **nugatory** - of no value or importance
 
+**numinous** - aving a strong religious or spiritual quality; indicating or suggesting the presence of a divinity
+
 **nuncle** - a person's uncle (archaic)
 ### O  {#header-title-15}
+**obverse** - the side of a coin or medal bearing the head or main design;  the opposite or counterpart of a fact or truth
+
 **oik** - an uncouth or obnoxious person
 
 **orgulous** - haughty
@@ -240,6 +256,8 @@ These are some words I have collected over the past few months, many of them com
 
 **plongeon** - the act of diving into the water
 
+**pomade** - a scented ointment or oil applied to the hair
+
 **post-prandial** - during or relating to the period after dinner or lunch
 
 **postern** - a back or side entrance
@@ -261,7 +279,11 @@ These are some words I have collected over the past few months, many of them com
 ### R  {#header-title-18}
 **raconteur** - a person who excels in telling anecdotes
 
+**recherche** - rare, exotic, or obscure (French word)
+
 **roister** - enjoy oneself or celebrate in a noisy or boisterous way
+
+**rumbustious** - boisterous or unruly
 ### S  {#header-title-19}
 **salicaceous** - of, relating to, or belonging to the Salicaceae, a chiefly N temperate family of trees and shrubs having catkins
 
@@ -295,6 +317,8 @@ These are some words I have collected over the past few months, many of them com
 
 **shabrack** - a cavalry saddlecloth used in European armies
 
+**sidereal** - of or with respect to the distant stars (i.e. the constellations or fixed stars, not the sun or planets)
+
 **skuther** - a sharp short gale, a passing shower
 
 **skyclad** - naked (used especially in connection with modern pagan ritual)
@@ -305,9 +329,13 @@ These are some words I have collected over the past few months, many of them com
 
 **sprog** - a child, or military recruit/trainee (verb to have a baby)
 
+**squiffy** - slightly drunk; askew, awry
+
 **stela/stele** - an upright stone slab or column typically bearing a commemorative inscription or relief design, often serving as a gravestone
 
 **stook** - a group of sheaves of grain stood on end in a field
+
+**sutler** - a person who followed an army and sold provisions to the soldiers
 
 **systolic** - relating to the phase of the heartbeat when the heart contracts and pumps blood from chambers into arteries
 ### T  {#header-title-20}
@@ -340,6 +368,8 @@ These are some words I have collected over the past few months, many of them com
 
 **veldt** - open, uncultivated country or grassland in southern Africa, conventionally divided by altitude into highveld, middleveld, and lowveld
 
+**viaduct** - a bridge for carrying a road or railroad over something (as a gorge or a highway)
+
 **votive** - offered or consecrated in fulfillment of a vow
 ### W  {#header-title-23}
 **weft** (with warp) -  the crosswise threads on a loom that are passed over and under the warp threads to make cloth
@@ -348,7 +378,11 @@ These are some words I have collected over the past few months, many of them com
 
 **welchet** - made up by Pratchett but "a type of waistcoat worn by certain clock-makers"
 
+**widdle** - to pee, wee
+
 **winge** - to complain or whine (british spelling of whinge)
+
+**witter** - prattle, babble, chatter
 
 **woad** - a yellow-flowered European plant of the cabbage family; formerly used to extract blue dye from
 
