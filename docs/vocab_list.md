@@ -110,6 +110,8 @@ These are some words I have collected over the past few months, many of them com
 
 **eschatological** - relating to death, judgment, and the final destiny of the soul and of humankind
 
+**escutcheon** - a shield or emblem bearing a coat of arms
+
 **exiguous** - very small in size or amount
 ### F {#header-title-6}
 **faience** - glazed earthenware or pottery, especially a fine variety with highly colored designs
@@ -125,6 +127,8 @@ These are some words I have collected over the past few months, many of them com
 **forenoon** - morning (as opposed to the afternoon)
 
 **for(e)gather** - assemble or gather together
+
+**friable** - easily crumbled (a good frenchy fry isn't friable; I would be concerned if it were)
 
 **fritillary** - a butterfly with orange-brown wings that are chequered with black
 
@@ -143,6 +147,8 @@ These are some words I have collected over the past few months, many of them com
 **gnomic(-ally)** - consisting of, containing, or relating to gnomes or aphorisms
 
 **gnomon** - the raised part of a sundial that casts the shadow; a style
+
+**grook** - a brief, aphoristic poem, often containing irony or paradox (invented by Piet Hein)
 
 **guzunder** - another word for chamber pot (because it 'guzunder' the bed)
 ### H {#header-title-8}
@@ -173,6 +179,8 @@ These are some words I have collected over the past few months, many of them com
 **klatch** - an informal social gathering at which coffee is served.
 
 **kludge** - an ill-assorted collection of parts assembled to fulfill a particular purpose, also verb
+
+**knaw** - a rather horrid archaic spelling of 'gnaw'
 
 **knurd** -  a coinage formed by spelling drunk backwards (those who would rather study than party)
 ### L {#header-title-12}
@@ -230,6 +238,8 @@ These are some words I have collected over the past few months, many of them com
 
 **orgulous** - haughty
 
+**ossified** - having turned into bone or bony tissue; having become rigid or fixed in attitude or position
+
 **ostler** - a man employed to look after the horses of people staying at an inn
 ### P  {#header-title-16}
 **palestra** - a public place for training or exercise in wrestling or athletics (in Greek antiquity)
@@ -264,9 +274,15 @@ These are some words I have collected over the past few months, many of them com
 
 **prestidigator** - a performer who uses tricks and sleight-of-hand to entertain the crowd
 
+**profligacy** - reckless extravagance or wastefulness in the use of resource; licentious or dissolute behaviour
+
 **propinquity** -  the state of being close to someone or something; proximity OR a close kinship
 
+**proscenium** - the part of a theater stage in front of the curtain
+
 **protome** - type of adornment that takes the form of the head and upper torso of either a human or an animal
+
+**publican** - a person who owns or manages a pub
 
 **puddler** - a worker who turns pig iron into wrought iron by puddling
 
@@ -319,6 +335,8 @@ These are some words I have collected over the past few months, many of them com
 
 **sidereal** - of or with respect to the distant stars (i.e. the constellations or fixed stars, not the sun or planets)
 
+**skint** - (of a person) having little or no money available
+
 **skuther** - a sharp short gale, a passing shower
 
 **skyclad** - naked (used especially in connection with modern pagan ritual)
@@ -336,6 +354,8 @@ These are some words I have collected over the past few months, many of them com
 **stook** - a group of sheaves of grain stood on end in a field
 
 **sutler** - a person who followed an army and sold provisions to the soldiers
+
+**swarf** - fine chips or filings of stone, metal, or other material produced by a machining operation (like sawdust but for metal and very bad for elves)
 
 **systolic** - relating to the phase of the heartbeat when the heart contracts and pumps blood from chambers into arteries
 ### T  {#header-title-20}
@@ -357,9 +377,13 @@ These are some words I have collected over the past few months, many of them com
 
 **tumulus** - an ancient burial mound; a barrow
 
+**turpitude** - depravity; wickedness
+
 **turf** - force (someone) to leave somewhere (British)
 ### U  {#header-title-21}
 **underbreath** - whisper, undertone (noun)
+
+**usufruct** - the right to enjoy the use and advantages of another's property short of the destruction or waste of its substance
 
 **utricle** - any of various small pouches or saccate parts of an animal or plant
 
