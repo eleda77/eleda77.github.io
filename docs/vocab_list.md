@@ -11,6 +11,8 @@ These are some words I have collected over the past few months, many of them com
 
 **abseil** - to go down a very steep slope by holding on to a rope that is fastened to the top of the slope
 
+**accidia** - spiritual or mental sloth; apathy (also acedia); one of the seven deadly sins
+
 **actinic** - caused by sunlight
 
 **affray** - an instance of fighting in a public place that disturbs the peace
@@ -71,6 +73,8 @@ These are some words I have collected over the past few months, many of them com
 
 **catkin** - a downy, hanging flowering spike of trees such as willow and hazel, pollinated by the wind
 
+**cerise** - a light clear red colour
+
 **chitinous** - having the quality of a tough, semitransparent substance that is main component of exoskeletons of arthropods (crustaceans) 
 
 **chitterling** - the smaller intestines of a pig, cooked as food (yuck)
@@ -94,6 +98,8 @@ These are some words I have collected over the past few months, many of them com
 **cruet** - a small container or set of containers for salt, pepper, oil, or vinegar for use at a dining table; also used for wine/water in celebration of the Eucharist
 ### D {#header-title-4}
 
+**dastard** - a dishonourable or despicable man
+
 **declaim** - utter or deliver words or a speech in a rhetorical or impassioned way, as if to an audience
 
 **demimonde** -  a class of women considered to be of doubtful social standing and morality; a group of people on the fringes of respectable society
@@ -112,11 +118,15 @@ These are some words I have collected over the past few months, many of them com
 
 **escutcheon** - a shield or emblem bearing a coat of arms
 
+**eudaimonia** - the state or condition of good spirit; happiness
+
 **exiguous** - very small in size or amount
 ### F {#header-title-6}
 **faience** - glazed earthenware or pottery, especially a fine variety with highly colored designs
 
 **farrago** - a confused mixture, a hodgepodge
+
+**fillip** - something which acts as a stimulus or boost to an activity; a flick of the finger or propel with a finger flick
 
 **fingle** - gross way to say to finger (verb)
 
@@ -167,6 +177,8 @@ These are some words I have collected over the past few months, many of them com
 **imprecation** - a spoken curse or offensive word(s)
 
 **inhume** - to bury (opp of exhume)
+
+**invar** - an alloy of iron and nickel with a negligible coefficient of expansion, used in the making of clocks and scientific instruments
 ### J {#header-title-10}
 **jess** - a short leather strap that is fastened round each leg of a hawk
 
@@ -202,6 +214,8 @@ These are some words I have collected over the past few months, many of them com
 
 **mephitic** - foul-smelling (usually of a gas)
 
+**midden** - a dunghill or refuse heap
+
 **mogadored** - confused or perplexed
 
 **monoxyl/monoxylon** - a canoe or boat made from a single piece of timber
@@ -222,6 +236,8 @@ These are some words I have collected over the past few months, many of them com
 
 **nonce** - (of a word or expression) coined for one occasion; the time being; (also a word for sex offender)
 
+**nonpareil** - having no match or equal; unrivalled
+
 **noonlight** - the light of noon, the brightest daylight
 
 **noonstead** - the position of the sun at noon
@@ -235,6 +251,8 @@ These are some words I have collected over the past few months, many of them com
 **obverse** - the side of a coin or medal bearing the head or main design;  the opposite or counterpart of a fact or truth
 
 **oik** - an uncouth or obnoxious person
+
+**oleaginous** - rich in, covered with, or producing oil, oily; exaggeratedly and distastefully complimentary; obsequious
 
 **orgulous** - haughty
 
@@ -278,6 +296,8 @@ These are some words I have collected over the past few months, many of them com
 
 **propinquity** -  the state of being close to someone or something; proximity OR a close kinship
 
+**proprioception** - perception or awareness of the position and movement of the body
+
 **proscenium** - the part of a theater stage in front of the curtain
 
 **protome** - type of adornment that takes the form of the head and upper torso of either a human or an animal
@@ -300,8 +320,12 @@ These are some words I have collected over the past few months, many of them com
 **roister** - enjoy oneself or celebrate in a noisy or boisterous way
 
 **rumbustious** - boisterous or unruly
+
+**rusk** - a light, dry biscuit or piece of twice-baked bread (also used as baby food)
 ### S  {#header-title-19}
 **salicaceous** - of, relating to, or belonging to the Salicaceae, a chiefly N temperate family of trees and shrubs having catkins
+
+**salubrious** - health-giving, healthy; (of a place) pleasant; not run-down
 
 **samizdat** - he clandestine copying and distribution of literature banned by the state, especially formerly in the communist countries of eastern Europe
 
@@ -318,6 +342,8 @@ These are some words I have collected over the past few months, many of them com
 **scrimshaw** - carved or engraved articles made originally by American whalers usually from baleen or whale teeth
 
 **scringe** - cringe, flinch; to flog the water in fishing (scringeing)
+
+**scrofula** - an infection in the lymph nodes of your neck
 
 **scrum** - a disorderly crowd of people or things
 
@@ -342,6 +368,8 @@ These are some words I have collected over the past few months, many of them com
 **skyclad** - naked (used especially in connection with modern pagan ritual)
 
 **smutty** - soiled or tainted with smut (or obscene/indecent)
+
+**soupçon** - a very small quantity of something
 
 **sparge** - moisten by sprinkling with water, especially in brewing
 
@@ -369,6 +397,8 @@ These are some words I have collected over the past few months, many of them com
 
 **toxophily** - love of the bow (as in bow and arrow/archery)
 
+**transom** - the flat surface forming the stern (back) of a boat
+
 **treadle** - a lever worked by the foot and imparting motion to a machine, or to operate (a machine) with a treadle
 
 **trilithon** - an ancient stone monument consisting of two upright megaliths carrying a third as a lintel
@@ -391,6 +421,8 @@ These are some words I have collected over the past few months, many of them com
 **vambrace** - piece of armor for the forearm
 
 **veldt** - open, uncultivated country or grassland in southern Africa, conventionally divided by altitude into highveld, middleveld, and lowveld
+
+**verruca** - a contagious and usually painful wart on the sole of the foot; a plantar war (any wart in medical use) (also like the character Veruca Salt)
 
 **viaduct** - a bridge for carrying a road or railroad over something (as a gorge or a highway)
 
