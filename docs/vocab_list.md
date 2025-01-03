@@ -27,7 +27,11 @@ These are some words I have collected over the past few months, many of them com
 
 **antiprism** - olytope built from two parallel bases, dual to one another (yeah I don't know what that means either but just look up a picture, it's easier)
 
+**anoxy** - greatly deficient in oxygen
+
 **argosy** - a large merchant ship, originally one from Ragusa (now Dubrovnik) or Venice; an opulent supply
+
+**armigerous** - bearing or entitled to use a coat of arms
 
 **artic** - short for articulated vehicle/lorry (large vehicle that has two sections connected by a bar)
 
@@ -63,6 +67,8 @@ These are some words I have collected over the past few months, many of them com
 
 **cannonade** - a heavy fire of artillery; an attack (as with words) likened to artillery fire : bombardment
 
+**cantilever** - a long projecting beam or girder fixed at only one end, used in bridge construction
+
 **carbuncle** - something, especially a building, that is unsightly or visually intrusive (also a gem, British)
 
 **carillion** - a set of bells in a tower, played using a keyboard or by an automatic mechanism similar to a piano roll
@@ -75,6 +81,8 @@ These are some words I have collected over the past few months, many of them com
 
 **cerise** - a light clear red colour
 
+**champ(-ing)** - another term for chomp (those champing jaws)
+
 **chitinous** - having the quality of a tough, semitransparent substance that is main component of exoskeletons of arthropods (crustaceans) 
 
 **chitterling** - the smaller intestines of a pig, cooked as food (yuck)
@@ -83,7 +91,11 @@ These are some words I have collected over the past few months, many of them com
 
 **cladding** - the application of one material over another to provide a skin or layer (noun form of clad)
 
+**cloaca** - the common cavity into which the intestinal, urinary, and generative canals open in birds, reptiles, amphibians, many fishes, and certain mammals (also an archaic term for a sewer)
+
 **cochineal** - a scarlet dye used chiefly for coloring food
+
+**comity** - an association of nations for their mutual benefit; courtesy and considerate behavior toward others
 
 **contraindication** - a specific situation in which a medicine, procedure, or surgery should not be used because it may be harmful to the person
 
@@ -93,9 +105,11 @@ These are some words I have collected over the past few months, many of them com
 
 **coruscate** -  to give off or reflect light in bright beams or flashes, sparkle
 
-**cresset** - a metal container of oil, grease, wood, or coal set alight for illumination and typically mounted on a pole.
+**cresset** - a metal container of oil, grease, wood, or coal set alight for illumination and typically mounted on a pole
 
 **cruet** - a small container or set of containers for salt, pepper, oil, or vinegar for use at a dining table; also used for wine/water in celebration of the Eucharist
+
+**crump** - a loud thudding sound, especially one made by an exploding bomb or shell (also used as a verb)
 ### D {#header-title-4}
 
 **dastard** - a dishonourable or despicable man
@@ -109,6 +123,8 @@ These are some words I have collected over the past few months, many of them com
 **distaff** - a stick or spindle on to which wool or flax is wound for spinning; of or relating to women
 
 **dobby** - (no, not the house elf) a loom attachment for weaving small figures
+
+**doddle** - a very easy task
 
 **drumlin** - oan val-shaped hill, largely composed of glacial drift, formed beneath a glacier or ice sheet and aligned in the direction of ice flow
 ### E {#header-title-5}
@@ -154,6 +170,8 @@ These are some words I have collected over the past few months, many of them com
 
 **gimlet** - a small T-shaped tool with a screw-tip for boring holes
 
+**glazier** - a person whose profession is fitting glass into windows and doors
+
 **gnomic(-ally)** - consisting of, containing, or relating to gnomes or aphorisms
 
 **gnomon** - the raised part of a sundial that casts the shadow; a style
@@ -161,6 +179,8 @@ These are some words I have collected over the past few months, many of them com
 **grook** - a brief, aphoristic poem, often containing irony or paradox (invented by Piet Hein)
 
 **guzunder** - another word for chamber pot (because it 'guzunder' the bed)
+
+**gymslip** - a sleeveless tunic with a pleated skirt most commonly seen as part of a school uniform for girls (look up a pic)
 ### H {#header-title-8}
 **hagger** - I swear he made this up
 
@@ -168,11 +188,13 @@ These are some words I have collected over the past few months, many of them com
 
 **hirsute** - hairy
 
-**humpty** - a low padded seat; pouffe
-
 **hoick** - lift or pull abruptly with effort
 
 **humdinger** - a remarkable or outstanding person or thing of its kind
+
+**humpty** - a low padded seat; pouffe
+
+**hurble** - I swear Pratchett made this one up too but it sounds funny
 ### I {#header-title-9}
 **imprecation** - a spoken curse or offensive word(s)
 
@@ -210,7 +232,11 @@ These are some words I have collected over the past few months, many of them com
 
 **mastaba** - an ancient Egyptian tomb consisting of an underground burial chamber with rooms above it (at ground level) to store offerings
 
+**masticate** - to chew (food) (not the other word this reminded you of)
+
 **maunder** - talk in a rambling manner; move or act in a dreamy or idle manner
+
+**mellifluous** - (of a voice or words) sweet or musical; pleasant to hear
 
 **mephitic** - foul-smelling (usually of a gas)
 
@@ -232,6 +258,8 @@ These are some words I have collected over the past few months, many of them com
 ### N {#header-title-14}
 **nasothek** - a collection of sculpted noses
 
+**nicticate** - to wink or blink rapidly (mostly for creatures with nicticating membranes, whatever those are)
+
 **nom de guerre** - an assumed name under which a person engages in combat or some other activity or enterprise
 
 **nonce** - (of a word or expression) coined for one occasion; the time being; (also a word for sex offender)
@@ -248,6 +276,8 @@ These are some words I have collected over the past few months, many of them com
 
 **nuncle** - a person's uncle (archaic)
 ### O  {#header-title-15}
+**objurgation** - a harsh reprimand or criticism
+
 **obverse** - the side of a coin or medal bearing the head or main design;  the opposite or counterpart of a fact or truth
 
 **oik** - an uncouth or obnoxious person
@@ -255,6 +285,8 @@ These are some words I have collected over the past few months, many of them com
 **oleaginous** - rich in, covered with, or producing oil, oily; exaggeratedly and distastefully complimentary; obsequious
 
 **orgulous** - haughty
+
+**orison** - a prayer or plea to a deity
 
 **ossified** - having turned into bone or bony tissue; having become rigid or fixed in attitude or position
 
@@ -303,6 +335,8 @@ These are some words I have collected over the past few months, many of them com
 **protome** - type of adornment that takes the form of the head and upper torso of either a human or an animal
 
 **publican** - a person who owns or manages a pub
+
+**puckish** - playful, especially in a mischievous way (I'm assuming derived from the Shakespearian character Puck)
 
 **puddler** - a worker who turns pig iron into wrought iron by puddling
 
@@ -369,15 +403,23 @@ These are some words I have collected over the past few months, many of them com
 
 **smutty** - soiled or tainted with smut (or obscene/indecent)
 
+**socko** - stunningly effective or successful
+
+**sororal** - of or like a sister or sisters
+
 **soupçon** - a very small quantity of something
 
 **sparge** - moisten by sprinkling with water, especially in brewing
 
+**sporran** - a small pouch worn around the waist so as to hang in front of the kilt as part of men's Scottish Highland dress
+
 **sprog** - a child, or military recruit/trainee (verb to have a baby)
 
-**squiffy** - slightly drunk; askew, awry
+**squiffy** - slightly drunk; askew, awry (a personal favourite of mine)
 
 **stela/stele** - an upright stone slab or column typically bearing a commemorative inscription or relief design, often serving as a gravestone
+
+**stepwells** - wells, cisterns or ponds with a long corridor of steps that descend to the water level
 
 **stook** - a group of sheaves of grain stood on end in a field
 
@@ -391,9 +433,13 @@ These are some words I have collected over the past few months, many of them com
 
 **tantric** - based on ancient Hindu or Buddhist texts
 
+**tarsier** - cute lil animal (look up a pic) with ginormous eyes
+
 **thurible** - a censer (swinging incense thing at church)
 
 **tocsin** - an alarm bell or signal (archaic use)
+
+**toothpaste** - (as a verb) dribble down slowly in the manner of toothpaste? (ask Brian W. Aldiss)
 
 **toxophily** - love of the bow (as in bow and arrow/archery)
 
@@ -418,6 +464,8 @@ These are some words I have collected over the past few months, many of them com
 **utricle** - any of various small pouches or saccate parts of an animal or plant
 
 ### V  {#header-title-22}
+**vagary** - an unexpected and inexplicable change in a situation or in someone's behaviour
+
 **vambrace** - piece of armor for the forearm
 
 **veldt** - open, uncultivated country or grassland in southern Africa, conventionally divided by altitude into highveld, middleveld, and lowveld
@@ -441,6 +489,8 @@ These are some words I have collected over the past few months, many of them com
 **witter** - prattle, babble, chatter
 
 **woad** - a yellow-flowered European plant of the cabbage family; formerly used to extract blue dye from
+
+**wonga** - a British slang term for money
 
 **wot** - nonstandard British way of spelling what ("WOT? Where's my food?")
 ### X  {#header-title-24}
