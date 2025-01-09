@@ -17,6 +17,8 @@ These are some words I have collected over the past few months, many of them com
 
 **affray** - an instance of fighting in a public place that disturbs the peace
 
+**agoggle** - staring with wide eyes (I'm assuming this is an earlier form of agog)
+
 **alembic** - a distilling apparatus, now obsolete, consisting of a gourd-shaped container and a cap with a long beak for conveying the products to a receiver
 
 **alluvial** - made up of sand and earth left by rivers, floods, etc
@@ -56,6 +58,8 @@ These are some words I have collected over the past few months, many of them com
 **brachiate** - move by using the arms to swing from branch to branch (or just having arms as an adjective lol)
 
 **brassica** - a plant of a genus that includes cabbage, turnip, Brussels sprout, and mustard
+**brindle** - a brownish or tawny color of animal fur, with streaks of other color
+
 ### C {#header-title-3}
 **calenture** - a violent fever with delirium, affecting persons in the tropics (or sailors)
 
@@ -77,15 +81,23 @@ These are some words I have collected over the past few months, many of them com
 
 **cartouche** - a carved tablet or drawing representing a scroll with rolled-up ends, used ornamentally or bearing an inscription, also ornate frame
 
+**cassock** - that thing you see priests and choir members wear in church
+
 **catkin** - a downy, hanging flowering spike of trees such as willow and hazel, pollinated by the wind
 
 **cerise** - a light clear red colour
 
 **champ(-ing)** - another term for chomp (those champing jaws)
 
+**chandler** - one who makes candles
+
 **chitinous** - having the quality of a tough, semitransparent substance that is main component of exoskeletons of arthropods (crustaceans) 
 
 **chitterling** - the smaller intestines of a pig, cooked as food (yuck)
+
+**chivy** - tell (someone) repeatedly to do something
+
+**churl** - an impolite and mean-spirited person; a person of low birth/peasant
 
 **cittern** - a Renaissance stringed instrument like a guitar with a flat pear-shaped body
 
@@ -104,6 +116,8 @@ These are some words I have collected over the past few months, many of them com
 **convolve** - to roll or wind together; coil; twist
 
 **coruscate** -  to give off or reflect light in bright beams or flashes, sparkle
+
+**coterie** - a small group of people with shared interests or tastes, especially one that is exclusive of other people
 
 **cresset** - a metal container of oil, grease, wood, or coal set alight for illumination and typically mounted on a pole
 
@@ -126,8 +140,14 @@ These are some words I have collected over the past few months, many of them com
 
 **doddle** - a very easy task
 
+**dory** - a flat-bottomed boat with high flaring sides, sharp bow, and deep V-shaped transom
+
+**doughty** - brave and persistent (no, not doughy)
+
 **drumlin** - oan val-shaped hill, largely composed of glacial drift, formed beneath a glacier or ice sheet and aligned in the direction of ice flow
 ### E {#header-title-5}
+**equerry** - an officer of the British royal household who attends or assists members of the royal family
+
 **eructation** - a belch
 
 **eschatological** - relating to death, judgment, and the final destiny of the soul and of humankind
@@ -142,6 +162,8 @@ These are some words I have collected over the past few months, many of them com
 
 **farrago** - a confused mixture, a hodgepodge
 
+**faugh(!)** - interjection. used to express disgust, scorn, etc
+
 **fillip** - something which acts as a stimulus or boost to an activity; a flick of the finger or propel with a finger flick
 
 **fingle** - gross way to say to finger (verb)
@@ -151,6 +173,8 @@ These are some words I have collected over the past few months, many of them com
 **flocculent** - soft and woolly, fluffy
 
 **forenoon** - morning (as opposed to the afternoon)
+
+**forepeak** - the extreme forward lower compartment or tank usually used for trimming or storage in a ship
 
 **for(e)gather** - assemble or gather together
 
@@ -172,7 +196,9 @@ These are some words I have collected over the past few months, many of them com
 
 **glazier** - a person whose profession is fitting glass into windows and doors
 
-**gnomic(-ally)** - consisting of, containing, or relating to gnomes or aphorisms
+**gnoll** - a usually evil and hyena-like humanoid creature found in various forms in fantasy literature and video games
+
+**gnomic(-ally)** - cons*
 
 **gnomon** - the raised part of a sundial that casts the shadow; a style
 
@@ -198,6 +224,8 @@ These are some words I have collected over the past few months, many of them com
 ### I {#header-title-9}
 **imprecation** - a spoken curse or offensive word(s)
 
+**indissolubly** - in a way that is impossible to take apart or bring to an end, or that exists for a very long time
+
 **inhume** - to bury (opp of exhume)
 
 **invar** - an alloy of iron and nickel with a negligible coefficient of expansion, used in the making of clocks and scientific instruments
@@ -218,6 +246,10 @@ These are some words I have collected over the past few months, many of them com
 
 **knurd** -  a coinage formed by spelling drunk backwards (those who would rather study than party)
 ### L {#header-title-12}
+**lagniappe** - something given as a bonus or extra gift
+
+**lambent** - (of light or fire) glowing, gleaming, or flickering with a soft radiance
+
 **laminar** - relating to or consisting of thin layers
 
 **lintel** - a horizontal support of timber, stone, concrete, or steel across the top of a door or window.
@@ -294,6 +326,8 @@ These are some words I have collected over the past few months, many of them com
 ### P  {#header-title-16}
 **palestra** - a public place for training or exercise in wrestling or athletics (in Greek antiquity)
 
+**palfrey** - a docile horse used for ordinary riding, especially by women
+
 **pannier** - a basket, especially one of a pair carried by a beast of burden
 
 **paternoster** - a lift consisting of a series of linked compartments moving continuously on an endless belt
@@ -309,6 +343,8 @@ These are some words I have collected over the past few months, many of them com
 **phantasmagoria** - a sequence of real or imaginary images like that seen in a dream
 
 **piscatorial** - of or concerning fishermen or fishing
+
+**pith** - the essence of something; spongy white tissue lining the rind of an orange, lemon, and other citrus fruits
 
 **plangent** - loud and resonant, with a mournful tone (of a sound)
 
@@ -345,6 +381,8 @@ These are some words I have collected over the past few months, many of them com
 **punnet** - a small light basket or other container for fruit or vegetables
 ### Q  {#header-title-17}
 **quelch** - to squelch; to eliminate
+
+**quirt** - a short-handled riding whip with a braided leather lash
 
 ### R  {#header-title-18}
 **raconteur** - a person who excels in telling anecdotes
@@ -454,6 +492,8 @@ These are some words I have collected over the past few months, many of them com
 **tumulus** - an ancient burial mound; a barrow
 
 **turpitude** - depravity; wickedness
+
+**tussocky** - with small areas where the grass is longer and thicker than the grass around them
 
 **turf** - force (someone) to leave somewhere (British)
 ### U  {#header-title-21}
