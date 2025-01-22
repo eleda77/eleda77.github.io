@@ -23,6 +23,8 @@ These are some words I have collected over the past few months, many of them com
 
 **alluvial** - made up of sand and earth left by rivers, floods, etc
 
+**amanuensis** - a literary or artistic assistant, in particular one who takes dictation or copies manuscripts
+
 **anecdata** - evidence based on a collection of anecdotes or personal experiences, can be very subjective
 
 **antemeridian** - occurring before noon (in the forenoon)
@@ -30,6 +32,8 @@ These are some words I have collected over the past few months, many of them com
 **antiprism** - olytope built from two parallel bases, dual to one another (yeah I don't know what that means either but just look up a picture, it's easier)
 
 **anoxy** - greatly deficient in oxygen
+
+**aptronym** - a person's name that is regarded as amusingly appropriate to their occupation (ie last name Sleeper)
 
 **argosy** - a large merchant ship, originally one from Ragusa (now Dubrovnik) or Venice; an opulent supply
 
@@ -115,6 +119,8 @@ These are some words I have collected over the past few months, many of them com
 
 **convolve** - to roll or wind together; coil; twist
 
+**coppice** - an area of closely planted trees in which the trees are cut back regularly to provide wood (older version of 'copse')
+
 **coruscate** -  to give off or reflect light in bright beams or flashes, sparkle
 
 **coterie** - a small group of people with shared interests or tastes, especially one that is exclusive of other people
@@ -168,6 +174,8 @@ These are some words I have collected over the past few months, many of them com
 
 **fingle** - gross way to say to finger (verb)
 
+**fitz** - would precede the father's forename, means "son of"
+
 **fletton** - a type of relatively soft and porous brick made from Oxford clay
 
 **flocculent** - soft and woolly, fluffy
@@ -198,7 +206,7 @@ These are some words I have collected over the past few months, many of them com
 
 **gnoll** - a usually evil and hyena-like humanoid creature found in various forms in fantasy literature and video games
 
-**gnomic(-ally)** - cons*
+**gnomic(-ally)** - expressed in or of the nature of short, pithy maxims or aphorisms; enigmatic or ambiguous
 
 **gnomon** - the raised part of a sundial that casts the shadow; a style
 
@@ -218,6 +226,8 @@ These are some words I have collected over the past few months, many of them com
 
 **humdinger** - a remarkable or outstanding person or thing of its kind
 
+**hummock** - a hillock, knoll, or mound
+
 **humpty** - a low padded seat; pouffe
 
 **hurble** - I swear Pratchett made this one up too but it sounds funny
@@ -227,6 +237,8 @@ These are some words I have collected over the past few months, many of them com
 **indissolubly** - in a way that is impossible to take apart or bring to an end, or that exists for a very long time
 
 **inhume** - to bury (opp of exhume)
+
+**interregnum** - a period when normal government is suspended, especially between successive reigns or regimes; interval/pause between two periods of office or other things
 
 **invar** - an alloy of iron and nickel with a negligible coefficient of expansion, used in the making of clocks and scientific instruments
 ### J {#header-title-10}
@@ -289,6 +301,8 @@ These are some words I have collected over the past few months, many of them com
 **muzzy** - unable to think clearly; confused; blurred, indistinct
 ### N {#header-title-14}
 **nasothek** - a collection of sculpted noses
+
+**nautch** - a popular court dance performed by girls (known as "nautch girls") in later Mughal and colonial India
 
 **nicticate** - to wink or blink rapidly (mostly for creatures with nicticating membranes, whatever those are)
 
@@ -431,6 +445,8 @@ These are some words I have collected over the past few months, many of them com
 
 **shabrack** - a cavalry saddlecloth used in European armies
 
+**sheel** - to shell; to take off the husk or outer covering of (alternate spelling of 'shell')
+
 **sidereal** - of or with respect to the distant stars (i.e. the constellations or fixed stars, not the sun or planets)
 
 **skint** - (of a person) having little or no money available
@@ -448,6 +464,8 @@ These are some words I have collected over the past few months, many of them com
 **soupçon** - a very small quantity of something
 
 **sparge** - moisten by sprinkling with water, especially in brewing
+
+**spondulick** - 19th-century slang for money or cash, more specifically a reasonable amount of spending money
 
 **sporran** - a small pouch worn around the waist so as to hang in front of the kilt as part of men's Scottish Highland dress
 

@@ -13,9 +13,28 @@ For all that cool Discworld stuff!
 * Guards! Guards!
 * Pyramids
 * Sourcery
-* Faust Eric
+* (Faust) Eric
 * The Wee Free Men
 * Mort
+* Interesting Times
+* Reaper Man
+* A Hat Full of Sky
+* Moving Pictures
+* Wintersmith
+* I Shall Wear Midnight
+* Soul Music
+* The Shepherd's Crown
+* Hogfather
+* The Amazing Maurice and His Educated Rodents
+* Thief of Time
+* Men at Arms
+* The Last Continent
+* Feet of Clay
+* Making Money
+* The Science of Discworld
+* Jingo
+* The Fifth Elephant
+
 
 ##### Honorable Mentions (Others by Pratchett)
 * Good Omens
@@ -23,4 +42,4 @@ For all that cool Discworld stuff!
 * A Slip of the Keyboard
 * Nation
 * The Long Earth
-* Truckers
+* Truckers, Diggers, Wings
