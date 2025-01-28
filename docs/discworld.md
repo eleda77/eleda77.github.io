@@ -34,6 +34,8 @@ For all that cool Discworld stuff!
 * The Science of Discworld
 * Jingo
 * The Fifth Elephant
+* Night Watch
+* Raising Steam
 
 
 ##### Honorable Mentions (Others by Pratchett)

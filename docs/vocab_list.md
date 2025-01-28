@@ -3,7 +3,10 @@ layout: vocab
 title: Word Collection
 ---
 ## A List of Esoteric Words {#header-title-0}
-These are some words I have collected over the past few months, many of them coming from Terry Pratchett's *Discworld* series. I thought it might be fun to have a collection of new and unusual words together with their definitions in my own sort of personal dictionary. Please note that definitions are generally not my own. 
+These are some words I have collected over the past few months, many of them coming from Terry Pratchett's *Discworld* series. I thought it might be fun to have a collection of new and unusual words together with their definitions in my own sort of personal dictionary. Please note that definitions are generally not my own, and I choose either the one I didn't know or the ones that I find most interesting/relevant. 
+
+**Current Favourite Word:** squiffy
+
 ### A {#header-title-1}
 **abbatoir** - a slaughterhouse
 
@@ -14,6 +17,8 @@ These are some words I have collected over the past few months, many of them com
 **accidia** - spiritual or mental sloth; apathy (also acedia); one of the seven deadly sins
 
 **actinic** - caused by sunlight
+
+**adumbrate** - (no, not to make someone dumb) report or represent in outline; indicate faintly; foreshadow or symbolize; overshadow
 
 **affray** - an instance of fighting in a public place that disturbs the peace
 
@@ -29,17 +34,23 @@ These are some words I have collected over the past few months, many of them com
 
 **anecdata** - evidence based on a collection of anecdotes or personal experiences, can be very subjective
 
+**animadvert** - pass criticism or censure on; speak out against
+
 **antemeridian** - occurring before noon (in the forenoon)
 
-**antiprism** - olytope built from two parallel bases, dual to one another (yeah I don't know what that means either but just look up a picture, it's easier)
+**antiprism** - polytope built from two parallel bases, dual to one another (yeah I don't know what that means either but just look up a picture, it's easier)
 
 **anodyne** - not likely to provoke dissent or offense; inoffensive, often deliberately so
 
 **anoxy** - greatly deficient in oxygen
 
+**apothegm** - a concise saying or maxim; an aphorism
+
 **aptronym** - a person's name that is regarded as amusingly appropriate to their occupation (ie last name Sleeper)
 
 **argosy** - a large merchant ship, originally one from Ragusa (now Dubrovnik) or Venice; an opulent supply
+
+**argot** - the jargon or slang of a particular group or class
 
 **armigerous** - bearing or entitled to use a coat of arms
 
@@ -159,6 +170,8 @@ These are some words I have collected over the past few months, many of them com
 
 **declaim** - utter or deliver words or a speech in a rhetorical or impassioned way, as if to an audience
 
+**delectation** - pleasure and delight
+
 **demimonde** -  a class of women considered to be of doubtful social standing and morality; a group of people on the fringes of respectable society
 
 **dexiosis** - the representation of two people offering each other their right hand
@@ -166,6 +179,8 @@ These are some words I have collected over the past few months, many of them com
 **dimber** - pretty; neat
 
 **distaff** - a stick or spindle on to which wool or flax is wound for spinning; of or relating to women
+
+**dithyramb** - a wild choral hymn of ancient Greece, especially one dedicated to Dionysus (sounds fun); a passionate or inflated speech, poem, or other writing
 
 **dobby** - (no, not the house elf) a loom attachment for weaving small figures
 
@@ -175,7 +190,7 @@ These are some words I have collected over the past few months, many of them com
 
 **doughty** - brave and persistent (no, not doughy)
 
-**drumlin** - oan val-shaped hill, largely composed of glacial drift, formed beneath a glacier or ice sheet and aligned in the direction of ice flow
+**drumlin** - an oval-shaped hill, largely composed of glacial drift, formed beneath a glacier or ice sheet and aligned in the direction of ice flow
 ### E {#header-title-5}
 **ekename** - nickname
 
@@ -256,6 +271,8 @@ These are some words I have collected over the past few months, many of them com
 **gymslip** - a sleeveless tunic with a pleated skirt most commonly seen as part of a school uniform for girls (look up a pic)
 ### H {#header-title-8}
 **hagger** - I swear he made this up
+
+**hagiography** - the writing of the lives of saints; biography that idealizes its subject (derogatory)
 
 **hallux** - big toe
 
@@ -369,7 +386,7 @@ These are some words I have collected over the past few months, many of them com
 
 **nugatory** - of no value or importance
 
-**numinous** - aving a strong religious or spiritual quality; indicating or suggesting the presence of a divinity
+**numinous** - having a strong religious or spiritual quality; indicating or suggesting the presence of a divinity
 
 **nuncle** - a person's uncle (archaic)
 ### O  {#header-title-15}
@@ -414,6 +431,8 @@ These are some words I have collected over the past few months, many of them com
 **pessimal** - bad to a maximal extent; worst
 
 **phantasmagoria** - a sequence of real or imaginary images like that seen in a dream
+
+**philistine** - a person who is hostile or indifferent to culture and the arts, or who has no understanding of them (or adjective in that it describes someone like that)
 
 **piscatorial** - of or concerning fishermen or fishing
 
@@ -560,6 +579,10 @@ These are some words I have collected over the past few months, many of them com
 
 **stook** - a group of sheaves of grain stood on end in a field
 
+**suasive** - serving to persuade (yeah, I'm not sure where the per- went either)
+
+**suborn** - bribe or otherwise induce (someone) to commit an unlawful act such as perjury
+
 **sutler** - a person who followed an army and sold provisions to the soldiers
 
 **swarf** - fine chips or filings of stone, metal, or other material produced by a machining operation (like sawdust but for metal and very bad for elves)
@@ -610,6 +633,8 @@ These are some words I have collected over the past few months, many of them com
 
 ### V  {#header-title-22}
 **vagary** - an unexpected and inexplicable change in a situation or in someone's behaviour
+
+**valorize** - give or ascribe value or validity to (something)
 
 **vambrace** - piece of armor for the forearm
 
