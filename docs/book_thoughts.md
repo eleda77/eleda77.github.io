@@ -36,7 +36,7 @@ title: Book Thoughts
   </ul>
 
   {% include goodreads-styles.html %}
-
+  
   <div class="reading-section">
     <h2>Goodreads Updates</h2>
     {% include currently-reading.html %}

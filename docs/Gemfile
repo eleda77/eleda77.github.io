@@ -6,3 +6,4 @@ gem "jekyll-remote-theme"
 gem "minima"
 gem "jekyll-feed"
 gem "kramdown-parser-gfm" 
+gem 'gemoji'
