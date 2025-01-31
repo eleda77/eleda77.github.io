@@ -44,7 +44,7 @@ For all that cool Discworld stuff!
 💀 Death Novels<br>
 🏺 Ancient Civilizations<br>
 🧹 Witches Novels<br>
-🐑 Tiffany Aching Novels<br>
+🐑 Tiffany Aching <br>
 🧪 Science of Discworld 
 </div>
 
