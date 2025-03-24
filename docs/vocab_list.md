@@ -44,6 +44,8 @@ These are some words I have collected over the past few months, many of them com
 
 **anoxy** - greatly deficient in oxygen
 
+**aphelion** - the point in an object's orbit where it is furthest from the sun
+
 **apothegm** - a concise saying or maxim; an aphorism
 
 **aptronym** - a person's name that is regarded as amusingly appropriate to their occupation (ie last name Sleeper)
@@ -89,6 +91,8 @@ These are some words I have collected over the past few months, many of them com
 **brindle** - a brownish or tawny color of animal fur, with streaks of other color
 
 ### C {#header-title-3}
+**cachet** - the state of being respected or admired; prestige
+
 **calenture** - a violent fever with delirium, affecting persons in the tropics (or sailors)
 
 **calcareous** - chalky
@@ -168,6 +172,8 @@ These are some words I have collected over the past few months, many of them com
 
 **dastard** - a dishonourable or despicable man
 
+**deasil** - in the direction of the sun's apparent course, considered as lucky; clockwise; opposite of widdershins
+
 **declaim** - utter or deliver words or a speech in a rhetorical or impassioned way, as if to an audience
 
 **delectation** - pleasure and delight
@@ -196,7 +202,13 @@ These are some words I have collected over the past few months, many of them com
 
 **elevenses** - a short break for light refreshments taken at about eleven o'clock in the morning
 
+**empennage** - an arrangement of stabilizing surfaces at the tail of an aircraft
+
 **enceinte** - an enclosure or the enclosing wall of a fortified place
+
+**endling** - the last known individual of a species or subspecies
+
+**englobe** - enclose in or shape into a globe
 
 **equerry** - an officer of the British royal household who attends or assists members of the royal family
 
@@ -264,6 +276,8 @@ These are some words I have collected over the past few months, many of them com
 
 **gnomon** - the raised part of a sundial that casts the shadow; a style
 
+**grist** - grain that is ground to make flour; useful material, especially to back up an argument
+
 **grook** - a brief, aphoristic poem, often containing irony or paradox (invented by Piet Hein)
 
 **guzunder** - another word for chamber pot (because it 'guzunder' the bed)
@@ -278,7 +292,11 @@ These are some words I have collected over the past few months, many of them com
 
 **heggler** - an egg haggler 
 
+**henge** - a prehistoric monument consisting of a circle of stone or wooden uprights
+
 **hirsute** - hairy
+
+**hoi polloi** - the masses; the common people
 
 **hoick** - lift or pull abruptly with effort
 
@@ -291,6 +309,8 @@ These are some words I have collected over the past few months, many of them com
 **hurble** - I swear Pratchett made this one up too but it sounds funny
 ### I {#header-title-9}
 **imprecation** - a spoken curse or offensive word(s)
+
+**imputation** - a charge or claim that someone has done something undesirable; an accusation; (finance) the assignment of a value to something by inference from the value of the products or processes to which it contributes
 
 **indissolubly** - in a way that is impossible to take apart or bring to an end, or that exists for a very long time
 
@@ -326,6 +346,12 @@ These are some words I have collected over the past few months, many of them com
 
 **lath** - a thin narrow strip of wood nailed to rafters, joists, or studding as a groundwork for slates, tiles, or plaster; a building material in sheets used as a base for plaster
 
+**lenticular** - shaped like a lentil, especially by being biconvex
+
+**lepidopterist** - a person who studies or collects butterflies and moths
+
+**ligature** - a thing used for tying or binding something tightly; (in music) a slur or tie; a character consisting of two or more joined letters, e.g. æ
+
 **lintel** - a horizontal support of timber, stone, concrete, or steel across the top of a door or window.
 
 **lunette** - something that has the shape of a crescent or half-moon
@@ -347,6 +373,8 @@ These are some words I have collected over the past few months, many of them com
 **mephitic** - foul-smelling (usually of a gas)
 
 **midden** - a dunghill or refuse heap
+
+**miltate** - (of a fact or circumstance) be a powerful or conclusive factor in preventing
 
 **mogadored** - confused or perplexed
 
@@ -404,12 +432,16 @@ These are some words I have collected over the past few months, many of them com
 
 **orison** - a prayer or plea to a deity
 
+**orotund** -  (of voice/phrasing) full, round, and imposing; (of writing) pompous or pretentious
+
 **ossified** - having turned into bone or bony tissue; having become rigid or fixed in attitude or position
 
 **ostler** - a man employed to look after the horses of people staying at an inn
 
 **oubliette** - a secret dungeon with access only through a trapdoor in its ceiling
 ### P  {#header-title-16}
+**pagination** - the sequence of numbers assigned to pages in a book or periodical
+
 **palestra** - a public place for training or exercise in wrestling or athletics (in Greek antiquity)
 
 **palfrey** - a docile horse used for ordinary riding, especially by women
@@ -444,6 +476,8 @@ These are some words I have collected over the past few months, many of them com
 
 **plongeon** - the act of diving into the water
 
+**poetaster** - a person who writes inferior poetry
+
 **pomade** - a scented ointment or oil applied to the hair
 
 **ponce** - ask for or obtain (something to which one is not strictly entitled); live off a prostitute's earnings
@@ -466,6 +500,8 @@ These are some words I have collected over the past few months, many of them com
 
 **proscenium** - the part of a theater stage in front of the curtain
 
+**protean** - tending or able to change frequently or easily; able to do many different things; versatile
+
 **protome** - type of adornment that takes the form of the head and upper torso of either a human or an animal
 
 **publican** - a person who owns or manages a pub
@@ -483,6 +519,8 @@ These are some words I have collected over the past few months, many of them com
 **quaestuary** - interested in or undertaken for monetary gain or profit
 
 **quelch** - to squelch; to eliminate
+
+**quiff** - a piece of hair, especially on a man, brushed upward and backward from the forehead (you'd look like an idiot with it)
 
 **quirt** - a short-handled riding whip with a braided leather lash
 
@@ -531,6 +569,8 @@ These are some words I have collected over the past few months, many of them com
 
 **secondment** - the detachment of a person (such as a military officer) from his or her regular organization for temporary assignment elsewhere
 
+**seigniorage** - profit made by a government by issuing currency, especially the difference between the face value of coins and their production costs; the Crown's right to a percentage on bullion brought to a mint for coining; a thing claimed by a sovereign or feudal superior as a prerogative
+
 **selachian** -  any of the classified group (Selachii) of cartilaginous fishes that includes the existing sharks and dogfishes among others
 
 **seraglio** - the women's apartments (harem) in an Ottoman palace
@@ -547,6 +587,8 @@ These are some words I have collected over the past few months, many of them com
 
 **skint** - (of a person) having little or no money available
 
+**skirl** - a shrill, wailing sound, especially that of bagpipes (also verb)
+
 **skittles** - a game played, chiefly in Britain, with wooden pins, typically nine in number, set up at the end of an alley to be bowled down with a wooden ball or disk; a pin used in the game of skittles
 
 **skuther** - a sharp short gale, a passing shower
@@ -557,9 +599,13 @@ These are some words I have collected over the past few months, many of them com
 
 **socko** - stunningly effective or successful
 
+**solmization** - a system of associating each note of a scale with a particular syllable, especially to teach singing (like solfege)
+
 **sororal** - of or like a sister or sisters
 
 **soupçon** - a very small quantity of something
+
+**sozzled** - very drunk
 
 **sparge** - moisten by sprinkling with water, especially in brewing
 
@@ -595,7 +641,11 @@ These are some words I have collected over the past few months, many of them com
 
 **tarsier** - cute lil animal (look up a pic) with ginormous eyes
 
+**tatterdemalion** - ragged or disreputable in appearance; dilapidated
+
 **terrapin** - any of various aquatic turtles
+
+**thanatology** - the scientific study of death and the practices associated with it, including the study of the needs of the terminally ill and their families
 
 **theodolite** - a surveying instrument with a rotating telescope for measuring horizontal and vertical angles
 
@@ -616,6 +666,10 @@ These are some words I have collected over the past few months, many of them com
 **trilithon** - an ancient stone monument consisting of two upright megaliths carrying a third as a lintel
 
 **trireme** - an ancient Greek or Roman war galley with three banks of oars
+
+**tumescent** - swollen or becoming swollen, especially as a response to sexual arousal; (of language) pompous or pretentious
+
+**tumid** - (of a belly) swollen; (of language) pompous or bombastic
 
 **tumulus** - an ancient burial mound; a barrow
 
