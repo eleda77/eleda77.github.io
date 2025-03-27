@@ -4,7 +4,7 @@
   left: 8%;
   background: #181818;
   border: 1.5px solid #404040;
-  padding: 12px; /* Slightly increased padding */
+  padding: 10px; /* Slightly increased padding */
   border-radius: 7px;
   width: auto;
   max-width: 120px; /* Slightly increased max-width */
@@ -16,7 +16,7 @@
   font-size: 1.2em;
   margin: 0 0 10px; /* Increased bottom margin */
   text-align: center;
-  color: #f7c3ef; /* Added color for consistency */
+  color: #a740ec; /* Added color for consistency */
 }
 
 .pinned-nav ul {
@@ -27,7 +27,7 @@
 }
 
 .pinned-nav ul li {
-  margin: 8px 0; /* Increased vertical spacing */
+  margin: 0px 0; /* Increased vertical spacing */
   overflow: visible;
 }
 
@@ -37,7 +37,7 @@
   display: inline-block;
   transition: all 0.3s ease;
   position: relative;
-  padding: 6px 10px; /* Increased horizontal padding */
+  padding: 1px 8px; /* Increased horizontal padding */
   border-radius: 3px;
 }
 
