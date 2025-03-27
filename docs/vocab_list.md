@@ -13,6 +13,8 @@ These are some words I have collected over the past few months, many of them com
 **Most Painful-Looking:** crwth
 
 ### A {#header-title-1}
+**aardwolf** - a nocturnal black-striped African mammal of the hyena family, feeding mainly on termites
+
 **abbatoir** - a slaughterhouse
 
 **abrade** - scrape or wear away by friction or erosion
@@ -105,9 +107,13 @@ These are some words I have collected over the past few months, many of them com
 
 **brassica** - a plant of a genus that includes cabbage, turnip, Brussels sprout, and mustard
 
+**brevet** - a warrant that gives a commissioned officer a higher rank title as a reward, but which may not confer the authority and privileges of real rank
+
 **brindle** - a brownish or tawny color of animal fur, with streaks of other color
 
 **bruit** - spread (a report or rumor) widely; a report or rumour
+
+**buskin** - a calf-high or knee-high boot of cloth or leather
 
 ### C {#header-title-3}
 **cachet** - the state of being respected or admired; prestige
@@ -132,7 +138,11 @@ These are some words I have collected over the past few months, many of them com
 
 **cartouche** - a carved tablet or drawing representing a scroll with rolled-up ends, used ornamentally or bearing an inscription, also ornate frame
 
+**cassandraic** - prophesying doom
+
 **cassock** - that thing you see priests and choir members wear in church
+
+**catenary** - a curve formed by a wire, rope, or chain hanging freely from two points and forming a U shape
 
 **catkin** - a downy, hanging flowering spike of trees such as willow and hazel, pollinated by the wind
 
@@ -144,7 +154,15 @@ These are some words I have collected over the past few months, many of them com
 
 **chandler** - one who makes candles
 
+**charisntma** - what one has when they have absolutely no charisma
+
 **charism** - a divinely conferred power or talent
+
+**charnel** - associated with death
+
+**charnel house** - a building or vault in which corpses or bones are piled; a place associated with violent death
+
+**chatelaine** - a woman in charge of a large house; a set of short chains attached to a woman's belt, used for carrying keys or other items
 
 **chaudron** - part of the entrails of an animal 
 
@@ -166,6 +184,8 @@ These are some words I have collected over the past few months, many of them com
 
 **cloaca** - the common cavity into which the intestinal, urinary, and generative canals open in birds, reptiles, amphibians, many fishes, and certain mammals (also an archaic term for a sewer)
 
+**cloudburst** - a sudden violent rainstorm
+
 **coaxial** - having a common axis
 
 **cochineal** - a scarlet dye used chiefly for coloring food
@@ -184,6 +204,8 @@ These are some words I have collected over the past few months, many of them com
 
 **coppice** - an area of closely planted trees in which the trees are cut back regularly to provide wood (older version of 'copse')
 
+**coprolite** - (in paleontology) a piece of fossilized dung
+
 **coruscate** -  to give off or reflect light in bright beams or flashes, sparkle
 
 **coterie** - a small group of people with shared interests or tastes, especially one that is exclusive of other people
@@ -191,6 +213,8 @@ These are some words I have collected over the past few months, many of them com
 **cove** - a man (informal)
 
 **craic** - enjoyable social activity; a good time (Irish)
+
+**crenate(d)** - having the margin or surface cut into rounded scallops
 
 **cresset** - a metal container of oil, grease, wood, or coal set alight for illumination and typically mounted on a pole
 
@@ -201,6 +225,8 @@ These are some words I have collected over the past few months, many of them com
 **crump** - a loud thudding sound, especially one made by an exploding bomb or shell (also used as a verb)
 
 **crwth** - an ancient Celtic instrument that is similar to a violin
+
+**cucumiform** - shaped like a cucumber
 
 **curlew** - a large wading bird of the sandpiper family, with a long down-curved bill, brown streaked plumage, and frequently a distinctive ascending two-note call
 ### D {#header-title-4}
@@ -222,6 +248,8 @@ These are some words I have collected over the past few months, many of them com
 **dimber** - pretty; neat
 
 **distaff** - a stick or spindle on to which wool or flax is wound for spinning; of or relating to women
+
+**distrain** - seize (someone's property) to obtain payment of rent or other money owed
 
 **dithyramb** - a wild choral hymn of ancient Greece, especially one dedicated to Dionysus (sounds fun); a passionate or inflated speech, poem, or other writing
 
@@ -245,7 +273,12 @@ These are some words I have collected over the past few months, many of them com
 
 **droit de seigneur** - he alleged right of a medieval feudal lord to do the deed with a vassal's bride on her wedding night
 
+**drubbing** - a beating or serious defeat, especially in a sports competition
+
 **drumlin** - an oval-shaped hill, largely composed of glacial drift, formed beneath a glacier or ice sheet and aligned in the direction of ice flow
+
+**dunny** - toilet, especially an outdoor privy
+
 ### E {#header-title-5}
 **ekename** - nickname
 
@@ -297,6 +330,8 @@ These are some words I have collected over the past few months, many of them com
 
 **flummery** - empty compliments; nonsense
 
+**folderol** - trivial or nonsensical fuss
+
 **forenoon** - morning (as opposed to the afternoon)
 
 **forepeak** - the extreme forward lower compartment or tank usually used for trimming or storage in a ship
@@ -342,6 +377,8 @@ These are some words I have collected over the past few months, many of them com
 **gnomon** - the raised part of a sundial that casts the shadow; a style
 
 **gracile** - of slender build; (of a person) slender or thin, especially in a charming or attractive way
+
+**grebe** - a diving waterbird with a long neck, lobed toes, and almost no tail, typically having bright breeding plumage used in display
 
 **grist** - grain that is ground to make flour; useful material, especially to back up an argument
 
@@ -423,6 +460,8 @@ These are some words I have collected over the past few months, many of them com
 
 **lath** - a thin narrow strip of wood nailed to rafters, joists, or studding as a groundwork for slates, tiles, or plaster; a building material in sheets used as a base for plaster
 
+**lectrology** - the study of beds and their surroundings (Pratchett made this up)
+
 **lenticular** - shaped like a lentil, especially by being biconvex
 
 **lepidopterist** - a person who studies or collects butterflies and moths
@@ -473,6 +512,8 @@ These are some words I have collected over the past few months, many of them com
 
 **muzzy** - unable to think clearly; confused; blurred, indistinct
 ### N {#header-title-14}
+**naif** - a naive or ingenuous person
+
 **napron** - obsolete form of apron
 
 **nasothek** - a collection of sculpted noses
@@ -573,6 +614,8 @@ These are some words I have collected over the past few months, many of them com
 
 **plectrum** - ancient guitar pick (like for lyre)
 
+**pleonasm** - the use of more words than are necessary to convey meaning (e.g. see with one's eyes), either as a fault of style or for emphasis
+
 **plongeon** - the act of diving into the water
 
 **poetaster** - a person who writes inferior poetry
@@ -591,7 +634,11 @@ These are some words I have collected over the past few months, many of them com
 
 **primigravida** - a woman who is pregnant for the first time
 
+**procatalepsis** - a figure of speech in which the speaker raises an objection to their own argument and then immediately answers it
+
 **profligacy** - reckless extravagance or wastefulness in the use of resource; licentious or dissolute behaviour
+
+**prognathous** - (of a person) having a projecting lower jaw or chin, more so than usual
 
 **propinquity** -  the state of being close to someone or something; proximity OR a close kinship
 
@@ -636,11 +683,21 @@ These are some words I have collected over the past few months, many of them com
 
 **regolith** - the layer of unconsolidated rocky material covering bedrock
 
+**rill** - a small stream
+
+**risible** - describing something that would provoke laughter; (of a person) having the faculty or power of laughing; inclined to laugh
+
 **roister** - enjoy oneself or celebrate in a noisy or boisterous way
 
 **rotgut** - poor-quality and potentially toxic alcoholic liquor
 
+**rubicund** - (especially of someone's face) having a ruddy complexion; high-colored
+
 **rumbustious** - boisterous or unruly
+
+**ruminant** - a contemplative person; a person given to meditation
+
+**runnel** - a narrow channel in the ground for liquid to flow through; a small stream of a particular liquid
 
 **rusk** - a light, dry biscuit or piece of twice-baked bread (also used as baby food)
 ### S  {#header-title-19}
@@ -666,6 +723,8 @@ These are some words I have collected over the past few months, many of them com
 
 **sclerotic** - becoming rigid and unresponsive; losing the ability to adapt
 
+**scouse** - a baked dish or stew made usually with meat and hardtack; the dialect spoken in Liverpool, England
+
 **scritter** - I think Pratchett just made this up
 
 **scrim** - a thing that conceals or obscures something
@@ -678,6 +737,8 @@ These are some words I have collected over the past few months, many of them com
 
 **scrum** - a disorderly crowd of people or things
 
+**scrump** - to steal fruit such as apples from trees
+
 **scumble** - modify (a painting or drawing) to give it a softer or duller effect
 
 **scunner** - a strong dislike, also to be in a state of disgusted irritation
@@ -689,6 +750,8 @@ These are some words I have collected over the past few months, many of them com
 **seigniorage** - profit made by a government by issuing currency, especially the difference between the face value of coins and their production costs; the Crown's right to a percentage on bullion brought to a mint for coining; a thing claimed by a sovereign or feudal superior as a prerogative
 
 **selachian** -  any of the classified group (Selachii) of cartilaginous fishes that includes the existing sharks and dogfishes among others
+
+**semiosis** - the process of signification in language or literature
 
 **seraglio** - the women's apartments (harem) in an Ottoman palace
 
@@ -744,9 +807,15 @@ These are some words I have collected over the past few months, many of them com
 
 **stepwells** - wells, cisterns or ponds with a long corridor of steps that descend to the water level
 
+**stertorous** - (of breathing) noisy and labored
+
+**stevedore** - a person employed, or a contractor engaged, at a dock to load and unload cargo from ships
+
 **stook** - a group of sheaves of grain stood on end in a field
 
 **suasive** - serving to persuade (yeah, I'm not sure where the per- went either)
+
+**subaltern** - of lower status
 
 **suborn** - bribe or otherwise induce (someone) to commit an unlawful act such as perjury
 
@@ -788,7 +857,11 @@ These are some words I have collected over the past few months, many of them com
 
 **toothpaste** - (as a verb) dribble down slowly in the manner of toothpaste? (ask Brian W. Aldiss)
 
+**tosheroon** - a coin with the value of half a crown
+
 **toxophily** - love of the bow (as in bow and arrow/archery)
+
+**tracklements** - a cover term for a wide range of condiments that go with meat
 
 **transom** - the flat surface forming the stern (back) of a boat
 
@@ -834,6 +907,8 @@ These are some words I have collected over the past few months, many of them com
 **verruca** - a contagious and usually painful wart on the sole of the foot; a plantar war (any wart in medical use) (also like the character Veruca Salt)
 
 **viaduct** - a bridge for carrying a road or railroad over something (as a gorge or a highway)
+
+**viands** - an item of food(s)
 
 **vim** - energy; enthusiasm (generally with vigor; "vim and vigor")
 
