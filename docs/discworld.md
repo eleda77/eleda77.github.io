@@ -44,7 +44,7 @@ For all that cool Discworld stuff!
 * Monstrous Regiment 💰
 * Unseen Academicals 😱
 * Wyrd Sisters 🧹
-* The Globe: The Science of Discworld II 🧪
+* The Globe: The Science of Discworld II 🧪 
 
 <div style="border: 1px solid #ccc; padding: 10px; border-radius: 10px; width: 25%; max-width: 300px; min-width: 180px;">
 😱 Rincewind Novels<br>

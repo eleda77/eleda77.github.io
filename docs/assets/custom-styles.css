@@ -4,29 +4,30 @@
   left: 8%;
   background: #181818;
   border: 1.5px solid #404040;
-  padding: 8px;
+  padding: 12px; /* Slightly increased padding */
   border-radius: 7px;
-  width: 5%;
-  max-width: 100px;
+  width: auto;
+  max-width: 120px; /* Slightly increased max-width */
   min-width: 10px;
   z-index: 1000;
 }
 
 .pinned-nav h3 {
   font-size: 1.2em;
-  margin: 0 0 5px;
+  margin: 0 0 10px; /* Increased bottom margin */
   text-align: center;
+  color: #f7c3ef; /* Added color for consistency */
 }
 
 .pinned-nav ul {
   list-style-type: none;
   padding: 0;
   text-align: center;
-  margin: 2px 0;
+  margin: 5px 0; /* Adjusted margin */
 }
 
 .pinned-nav ul li {
-  margin: 2px 0; /* Reduced from 5px to 2px */
+  margin: 8px 0; /* Increased vertical spacing */
   overflow: visible;
 }
 
@@ -36,16 +37,17 @@
   display: inline-block;
   transition: all 0.3s ease;
   position: relative;
-  padding: 1px 3px; /* Reduced padding */
+  padding: 6px 10px; /* Increased horizontal padding */
   border-radius: 3px;
 }
 
 .pinned-nav ul li a:hover {
-  text-decoration: underline;
+  text-decoration: none; /* Remove underline */
   color: #a740ec;
-  transform: translateX(5px) scale(1.2);
+  transform: translateX(5px) scale(1.1); /* Slightly reduced scale */
   background-color: rgba(24, 24, 24, 0.8);
-  box-shadow: 0 0 10px rgba(167, 64, 236, 0.3);
+  box-shadow: 0 0 12px rgba(167, 64, 236, 0.4); /* Slightly enhanced shadow */
+  border-left: 3px solid #a740ec; /* Added left border on hover */
 }
 
 /* Media query for mobile devices */
@@ -56,9 +58,24 @@
   
   .main-content {
     padding-left: 0;
-  }
-  
-  .main-content {
     width: 100%;
+  }
+}
+
+.site-nav .trigger {
+  display: flex;
+  gap: 8px; /* Adds space between navigation items */
+  align-items: center; /* Vertically centers items */
+}
+
+.site-nav .page-link {
+  white-space: nowrap; /* Prevents wrapping */
+  padding: 5px 10px; /* Optional: adds some padding to links */
+}
+
+@media screen and (max-width: 600px) {
+  .site-nav .trigger {
+    flex-direction: column; /* Stack vertically on mobile */
+    gap: 10px;
   }
 }
