@@ -45,6 +45,10 @@ For all that cool Discworld stuff!
 * Unseen Academicals 😱
 * Wyrd Sisters 🧹
 * The Globe: The Science of Discworld II 🧪 
+* Witches Abroad 🧹
+* Lords and Ladies 🧹
+* Maskerade 🧹
+
 
 <div style="border: 1px solid #ccc; padding: 10px; border-radius: 10px; width: 25%; max-width: 300px; min-width: 180px;">
 😱 Rincewind Novels<br>
@@ -63,6 +67,8 @@ For all that cool Discworld stuff!
 * Good Omens
 * A Stroke of the Pen
 * A Slip of the Keyboard
+* A Blink of the Screen
 * Nation
 * The Long Earth
-* Truckers, Diggers, Wings
+* The Bromeliad Trilogy
+* The Johnny Maxwell Trilogy

@@ -33,6 +33,7 @@ title: Book Thoughts
     <li>The <em>Wayward Children</em> series by Seanan McGuire</li>
     <li>The <em>Harry Potter</em> series by J.K. Rowling (I don't support JKR's political beliefs)</li>
     <li>The <em>Discworld</em> series by Terry Pratchett</li>
+    <li>The <em>Farseer</em> trilogy by Robin Hobb</li>
   </ul>
 
   {% include goodreads-styles.html %}
