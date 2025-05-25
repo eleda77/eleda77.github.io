@@ -48,6 +48,9 @@ For all that cool Discworld stuff!
 * Witches Abroad 🧹
 * Lords and Ladies 🧹
 * Maskerade 🧹
+* Carpe Jugulum 🧹
+* Darwin's Watch: The Science of Discworld III 🧪
+* Nanny Ogg's Cookbook 🧹
 
 
 <div style="border: 1px solid #ccc; padding: 10px; border-radius: 10px; width: 25%; max-width: 300px; min-width: 180px;">
@@ -64,6 +67,7 @@ For all that cool Discworld stuff!
 
 
 ##### Honorable Mentions (Others by Pratchett)
+* Terry Pratchett: A Life With Footnotes: The Official Biography by Rob Wilkins
 * Good Omens
 * A Stroke of the Pen
 * A Slip of the Keyboard
