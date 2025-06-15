@@ -51,6 +51,9 @@ For all that cool Discworld stuff!
 * Carpe Jugulum 🧹
 * Darwin's Watch: The Science of Discworld III 🧪
 * Nanny Ogg's Cookbook 🧹
+* Mrs Bradshaw's Handbook 💰
+* The Folklore of Discworld
+* Judgment Day: The Science of Discworld IV 🧪
 
 
 <div style="border: 1px solid #ccc; padding: 10px; border-radius: 10px; width: 25%; max-width: 300px; min-width: 180px;">
