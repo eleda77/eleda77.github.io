@@ -7,7 +7,7 @@ These are some words I have collected over the past few months, many of them com
 
 **Current Favourite Word:** daffy
 
-**Runner-Up:** tittup
+**Runner-Up:** puff-puff
 
 **Most Fun to Say Aloud:** numbles
 
@@ -84,6 +84,8 @@ These are some words I have collected over the past few months, many of them com
 
 **aptronym** - a person's name that is regarded as amusingly appropriate to their occupation (ie last name Sleeper)
 
+**arenaceous** - resembling, made of, or containing sand or sandy particles
+
 **argosy** - a large merchant ship, originally one from Ragusa (now Dubrovnik) or Venice; an opulent supply
 
 **argot** - the jargon or slang of a particular group or class
@@ -106,7 +108,11 @@ These are some words I have collected over the past few months, many of them com
 
 **aspergill** - a short-handled device with a globe containing a sponge; used for sprinkling holy water
 
+**asperse** - to sprinkle with holy water; to attack with evil reports or false or injurious charges
+
 **aspic** - a savory jelly made with meat stock, set in a mold and used to contain pieces of meat, seafood, or eggs (yummy)
+
+**asseverate** - to affirm or declare positively or earnestly
 
 **astonied** - filled with the emotional impact of overwhelming surprise or shock (presumably an old way of saying astonished)
 
@@ -132,6 +138,8 @@ These are some words I have collected over the past few months, many of them com
 
 
 ### B {#header-title-2}
+**baccarat** - a card game played in casinos in which two or more punters gamble against the banker
+
 **badinage** - playful repartee, banter
 
 **bailey** - the outer defensive wall that surrounds the outer courtyard of a castle
@@ -142,6 +150,8 @@ These are some words I have collected over the past few months, many of them com
 
 **ballache** - an annoying or tedious person or thing
 
+**bally** - euphemism for bloody (British)
+
 **ballyhoo** - extravagant publicity or fuss
 
 **banderole** - a little banner, flag or streamer
@@ -149,6 +159,8 @@ These are some words I have collected over the past few months, many of them com
 **bantam** - a chicken of a small breed, the male of which is noted for its aggression
 
 **bartizan** - an overhanging corner turret at the top of a castle or church tower
+
+**beard** - to confront and oppose with boldness, resolution, and often effrontery; defy
 
 **bedizen** - to dress or adorn gaudily
 
@@ -163,6 +175,8 @@ These are some words I have collected over the past few months, many of them com
 **besom** - a broom made of twigs tied around a stick
 
 **biro** - a kind of ballpoint pen
+
+**bloomer** - a stupid blunder
 
 **bole** - the stem or trunk of a tree
 
@@ -318,6 +332,8 @@ These are some words I have collected over the past few months, many of them com
 
 **chuffed** - very pleased
 
+**chump** - a person who is easily tricked; a stupid or foolish person
+
 **churl** - an impolite and mean-spirited person; a person of low birth/peasant
 
 **cittern** - a Renaissance stringed instrument like a guitar with a flat pear-shaped body
@@ -339,6 +355,8 @@ These are some words I have collected over the past few months, many of them com
 **cochineal** - a scarlet dye used chiefly for coloring food
 
 **coffle** - a line of animals or slaves fastened or driven along together
+
+**colliery** - a coal mine and its connected buildings
 
 **columbarium** - a room or building with niches for funeral urns to be stored
 
@@ -392,6 +410,8 @@ These are some words I have collected over the past few months, many of them com
 
 **cresset** - a metal container of oil, grease, wood, or coal set alight for illumination and typically mounted on a pole
 
+**croupier** - an employee of a gambling casino who collects and pays bets and assists at the gaming tables
+
 **crozier** - a hooked staff carried by a bishop as a symbol of pastoral office; the curled top of a young fern
 
 **cruet** - a small container or set of containers for salt, pepper, oil, or vinegar for use at a dining table; also used for wine/water in celebration of the Eucharist
@@ -409,6 +429,8 @@ These are some words I have collected over the past few months, many of them com
 **curlew** - a large wading bird of the sandpiper family, with a long down-curved bill, brown streaked plumage, and frequently a distinctive ascending two-note call
 
 **currach** - a type of Irish boat with a wooden frame, over which animal skins or hides were once stretched, though now canvas is more usual
+
+**curvet** - a prancing leap of a horse in which the hind legs are raised just before the forelegs touch the ground
 
 **cussed** - stubborn; annoying
 
@@ -430,6 +452,8 @@ These are some words I have collected over the past few months, many of them com
 
 **delectation** - pleasure and delight
 
+**delirium tremens** - a rapid onset of confusion usually caused by withdrawal from alcohol
+
 **demesne** - the part of a lord's land that he kept for his own use; property or territory
 
 **demimonde** - a class of women considered to be of doubtful social standing and morality; a group of people on the fringes of respectable society
@@ -444,6 +468,8 @@ These are some words I have collected over the past few months, many of them com
 
 **dimber** - pretty; neat
 
+**dippy** - foolish
+
 **disembogue** - (of a river or stream) emerge or be discharged into the sea or a larger river
 
 **disseisin** - the act of wrongfully depriving someone of their ownership or possession of property (aka dispossesion)
@@ -451,6 +477,8 @@ These are some words I have collected over the past few months, many of them com
 **distaff** - a stick or spindle on to which wool or flax is wound for spinning; of or relating to women
 
 **distrain** - seize (someone's property) to obtain payment of rent or other money owed
+
+**distrait** - apprehensively divided or withdrawn in attention; distracted
 
 **dithyramb** - a wild choral hymn of ancient Greece, especially one dedicated to Dionysus (sounds fun); a passionate or inflated speech, poem, or other writing
 
@@ -506,6 +534,8 @@ These are some words I have collected over the past few months, many of them com
 
 **effrontery** - a very confident attitude or way of behaving that is shocking or rude
 
+**eftsoons** - soon after(ward)
+
 **ekename** - nickname
 
 **eleemosynary** - relating to or dependent on charity; charitable
@@ -532,6 +562,8 @@ These are some words I have collected over the past few months, many of them com
 
 **engram** - a hypothetical permanent change in the brain accounting for the existence of memory; a memory trace
 
+**epatant** - startling or shocking
+
 **equerry** - an officer of the British royal household who attends or assists members of the royal family
 
 **eructation** - a belch
@@ -555,6 +587,8 @@ These are some words I have collected over the past few months, many of them com
 **evitable** - able to be avoided or prevented; avoidable
 
 **exaptation** - a trait, feature, or structure that has been coopted for use unrelated to its origin
+
+**excrescence** - something that bulges out or is protuberant or projects from its surroundings
 
 **exiguous** - very small in size or amount
 
@@ -596,6 +630,8 @@ These are some words I have collected over the past few months, many of them com
 
 **flence** - to strip the blubber or the skin from (a whale, seal, etc.)
 
+**fletcherize** - to reduce (food) to tiny particles especially by prolonged chewing
+
 **fletton** - a type of relatively soft and porous brick made from Oxford clay
 
 **flitch** - a slab of timber cut from a tree trunk, usually from the outside; a side of bacon
@@ -628,6 +664,8 @@ These are some words I have collected over the past few months, many of them com
 
 **fouail** - mixture of bowels and bread cooked over a fire (yum)
 
+**fo’c’sle** - short for forecastle; the forward part of a ship below the deck, traditionally used as the crew's living quarters
+
 **frazzle** - to tire or wear someone out
 
 **friable** - easily crumbled (a good frenchy fry isn't friable; I would be concerned if it were)
@@ -654,6 +692,8 @@ These are some words I have collected over the past few months, many of them com
 
 
 ### G {#header-title-7}
+**gad** - to be on the go without a specific aim or purpose
+
 **gaffer** - an old man; a person in charge of others; a boss
 
 **gammer** - an old countrywoman
@@ -729,6 +769,8 @@ These are some words I have collected over the past few months, many of them com
 **heggler** - an egg haggler
 
 **henge** - a prehistoric monument consisting of a circle of stone or wooden uprights
+
+**hep** - having or showing knowledge about the newest things in music, fashion, etc
 
 **herbert** - a foolish or contemptible person, especially male
 
@@ -1120,6 +1162,8 @@ These are some words I have collected over the past few months, many of them com
 
 **peroration** - the concluding part of a speech, typically intended to inspire enthusiasm in the audience
 
+**persiflage** - frivolous bantering talk
+
 **pessimal** - bad to a maximal extent; worst
 
 **pettifog** - quibble about petty points; practice legal deception or trickery
@@ -1137,6 +1181,8 @@ These are some words I have collected over the past few months, many of them com
 **pight** - to pitch or set up (a tent)
 
 **pilliwinks** - an old instrument of torture for the thumbs and fingers (not as cute as it sounds)
+
+**pip** - a feeling of irritation or annoyance
 
 **piscatorial** - of or concerning fishermen or fishing
 
@@ -1161,6 +1207,8 @@ These are some words I have collected over the past few months, many of them com
 **plongeon** - the act of diving into the water
 
 **plover** - medium-sized conspicuous bird with loud, penetrating calls
+
+**podgy** - pudgy
 
 **poetaster** - a person who writes inferior poetry
 
@@ -1202,6 +1250,8 @@ These are some words I have collected over the past few months, many of them com
 
 **propitious** - giving or indicating a good chance of success; favorable
 
+**propound** - to put forward or offer for consideration, acceptance, or adoption; set forth; propose
+
 **proprioception** - perception or awareness of the position and movement of the body
 
 **proscenium** - the part of a theater stage in front of the curtain
@@ -1217,6 +1267,8 @@ These are some words I have collected over the past few months, many of them com
 **puckish** - playful, especially in a mischievous way (I'm assuming derived from the Shakespearian character Puck)
 
 **puddler** - a worker who turns pig iron into wrought iron by puddling
+
+**puff-puff** - a children's name for a steam locomotive or railway train
 
 **pugilism** - the profession or hobby of boxing
 
@@ -1300,6 +1352,8 @@ These are some words I have collected over the past few months, many of them com
 
 **rotgut** - poor-quality and potentially toxic alcoholic liquor
 
+**rotter** - a thoroughly objectionable person
+
 **rowel** - a revolving disk with sharp marginal points at the end of a spur; to goad with or as if with a rowel
 
 **rubicund** - (especially of someone's face) having a ruddy complexion; high-colored
@@ -1309,6 +1363,8 @@ These are some words I have collected over the past few months, many of them com
 **rumbustious** - boisterous or unruly
 
 **ruminant** - a contemplative person; a person given to meditation
+
+**rummy** - peculiar, odd (chiefly British)
 
 **runagate** - a runaway; fugitive or deserter
 
@@ -1384,6 +1440,8 @@ These are some words I have collected over the past few months, many of them com
 
 **secondment** - the detachment of a person (such as a military officer) from his or her regular organization for temporary assignment elsewhere
 
+**sedulous** - involving or accomplished with careful perseverance
+
 **seigniorage** - profit made by a government by issuing currency, especially the difference between the face value of coins and their production costs; the Crown's right to a percentage on bullion brought to a mint for coining; a thing claimed by a sovereign or feudal superior as a prerogative
 
 **selachian** - any of the classified group (Selachii) of cartilaginous fishes that includes the existing sharks and dogfishes among others
@@ -1400,6 +1458,8 @@ These are some words I have collected over the past few months, many of them com
 
 **serried** - (of rows of people or things) standing close together
 
+**servitor** - a male servant
+
 **sett** - a small rectangular paving block made of stone, such as granite, used to provide a durable road surface
 
 **sgurr** - a high sharp-pointed hill or a large conical hill
@@ -1413,6 +1473,8 @@ These are some words I have collected over the past few months, many of them com
 **sheel** - to shell; to take off the husk or outer covering of (alternate spelling of 'shell')
 
 **shekel** - a silver coin and unit of weight used in ancient Israel and the Middle East; money, wealth
+
+**shirty** - angry; irritated
 
 **shriven** - to hear the confession of (a penitent); to impose a penance upon (a penitent) and grant him or her sacramental absolution
 
@@ -1457,6 +1519,8 @@ These are some words I have collected over the past few months, many of them com
 **socko** - stunningly effective or successful
 
 **solmization** - a system of associating each note of a scale with a particular syllable, especially to teach singing (like solfege)
+
+**somnambulism** - an abnormal condition of sleep in which motor acts (such as walking) are performed
 
 **sooth** - truth (i.e. in sooth meaning in truth)
 
@@ -1614,6 +1678,8 @@ These are some words I have collected over the past few months, many of them com
 
 **toothpaste** - (as a verb) dribble down slowly in the manner of toothpaste? (ask Brian W. Aldiss)
 
+**topping** - (British) excellent; wonderful
+
 **tosheroon** - a coin with the value of half a crown
 
 **toxophily** - love of the bow (as in bow and arrow/archery)
@@ -1714,6 +1780,8 @@ These are some words I have collected over the past few months, many of them com
 
 **vivandiere** - a French name for women who are attached to military regiments as sutlers or canteen keepers
 
+**voluble** - easily rolling or turning; characterized by ready or rapid speech
+
 **votive** - offered or consecrated in fulfillment of a vow
 
 
@@ -1780,6 +1848,8 @@ These are some words I have collected over the past few months, many of them com
 
 
 ### Z {#header-title-26}
+**zareba** - an improvised stockade constructed in parts of Africa especially of thorny bushes
+
 **zatch** - the stomach ("Worse. I shall have to rip him from his guggle to his zatch" *~The Thirteen Clocks* by James Thurber)
 
 **zetetic** - proceeding by inquiry

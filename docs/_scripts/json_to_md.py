@@ -25,11 +25,11 @@ def json_to_markdown(json_path, md_output_path):
         "## A List of Esoteric Words {#header-title-0}",
         "These are some words I have collected over the past few months, many of them coming from Terry Pratchett's *Discworld* series. I thought it might be fun to have a collection of new and unusual words together with their definitions in my own sort of personal dictionary. Please note that definitions are generally not my own, and I choose either the one I didn't know or the ones that I find most interesting/relevant.",
         "",
-        "**Current Favourite Word:** planetesimal (such a cute word for a cute concept)",
+        "**Current Favourite Word:** daffy",
         "",
-        "**Runner-Up:** snuggery",
+        "**Runner-Up:** puff-puff",
         "",
-        "**Awards for Uselessness:** moisty, stilly",
+        "**Most Fun to Say Aloud:** numbles",
         ""
     ]
 
