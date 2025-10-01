@@ -5,11 +5,11 @@ title: Word Collection
 ## A List of Esoteric Words {#header-title-0}
 These are some words I have collected over the past few months, many of them coming from Terry Pratchett's *Discworld* series. I thought it might be fun to have a collection of new and unusual words together with their definitions in my own sort of personal dictionary. Please note that definitions are generally not my own, and I choose either the one I didn't know or the ones that I find most interesting/relevant.
 
-**Current Favourite Word:** snooter
+**Current Favourite Word:** squiz
 
-**Runner-Up:** puff-puff
+**Runner-Up:** numpty
 
-**Most Fun to Say Aloud:** numbles
+**Most Fun to Say Aloud:** argy-bargy
 
 ### A {#header-title-1}
 **aardwolf** - a nocturnal black-striped African mammal of the hyena family, feeding mainly on termites
@@ -18,9 +18,13 @@ These are some words I have collected over the past few months, many of them com
 
 **abbatoir** - a slaughterhouse
 
+**ablation** - the surgical removal of body tissue; the removal of snow and ice by melting or evaporation, typically from a glacier or iceberg
+
 **abrade** - scrape or wear away by friction or erosion
 
-**abseil** - to go down a very steep slope by holding on to a rope that is fastened to the top of the slope
+**abrogate** - repeal or do away with (a law, right, or formal agreement); evade (a responsibility or duty)
+
+**abseil** - to go down a very steep slope by holding on to a rope that is fastened to the top of the slope (rappel)
 
 **academical** - relating to a college or university (this word just sounds dumb)
 
@@ -31,6 +35,8 @@ These are some words I have collected over the past few months, many of them com
 **adipose** - (especially of body tissue) used for the storage of fat
 
 **adumbrate** - (no, not to make someone dumb) report or represent in outline; indicate faintly; foreshadow or symbolize; overshadow
+
+**affiance** - be engaged to marry
 
 **affray** - an instance of fighting in a public place that disturbs the peace
 
@@ -95,6 +101,8 @@ These are some words I have collected over the past few months, many of them com
 **argosy** - a large merchant ship, originally one from Ragusa (now Dubrovnik) or Venice; an opulent supply
 
 **argot** - the jargon or slang of a particular group or class
+
+**argy-bargy** - noisy quarreling or wrangling
 
 **armigerous** - bearing or entitled to use a coat of arms
 
@@ -188,11 +196,17 @@ These are some words I have collected over the past few months, many of them com
 
 **besom** - a broom made of twigs tied around a stick
 
+**bier** - a movable frame on which a coffin or a corpse is placed before burial or cremation or on which it is carried to the grave
+
 **biff** - strike (someone) roughly or sharply with the fist
+
+**bine** - a long, flexible stem of a climbing plant, especially the hop
 
 **biro** - a kind of ballpoint pen
 
 **bish** - a mistake or blunder
+
+**blag** - manage to obtain (something) by using persuasion or guile; steal (something) in a violent robbery or raid
 
 **bloomer** - a stupid blunder
 
@@ -223,6 +237,8 @@ These are some words I have collected over the past few months, many of them com
 **brevet** - a warrant that gives a commissioned officer a higher rank title as a reward, but which may not confer the authority and privileges of real rank
 
 **breviary** - a book containing the service for each day, to be recited by those in orders in the Roman Catholic Church
+
+**bricolage** - something constructed or created from a diverse range of available things
 
 **brindle** - a brownish or tawny color of animal fur, with streaks of other color
 
@@ -314,6 +330,8 @@ These are some words I have collected over the past few months, many of them com
 
 **cerise** - a light clear red colour
 
+**chaffer** - haggle about the terms of an agreement or price of something
+
 **champ(-ing)** - another term for chomp (those champing jaws)
 
 **chancery** - a court of equity (US); an office attached to an embassy or consulate (British)
@@ -350,6 +368,8 @@ These are some words I have collected over the past few months, many of them com
 
 **chine** - a backbone, especially that of an animal as it appears in a cut of meat; a mountain ridge or arête
 
+**chirr** - (of an insect) make a prolonged low trilling sound
+
 **chirurgeon** - archaic way of saying surgeon
 
 **chitinous** - having the quality of a tough, semitransparent substance that is main component of exoskeletons of arthropods (crustaceans)
@@ -362,6 +382,10 @@ These are some words I have collected over the past few months, many of them com
 
 **chump** - a person who is easily tricked; a stupid or foolish person
 
+**chunder** - vomit
+
+**chunter** - talk or grumble monotonously; move along slowly and noisily
+
 **churl** - an impolite and mean-spirited person; a person of low birth/peasant
 
 **circs** - short for circumstances
@@ -369,6 +393,10 @@ These are some words I have collected over the past few months, many of them com
 **cittern** - a Renaissance stringed instrument like a guitar with a flat pear-shaped body
 
 **cladding** - the application of one material over another to provide a skin or layer (noun form of clad)
+
+**clade** - a group of organisms believed to have evolved from a common ancestor, according to the principles of cladistics
+
+**cladistics** - a method of classification of animals and plants according to the proportion of measurable characteristics that they have in common
 
 **clary** - an aromatic herbaceous plant of the mint family, some kinds of which are used as culinary and medicinal herbs
 
@@ -379,6 +407,8 @@ These are some words I have collected over the past few months, many of them com
 **cloaca** - the common cavity into which the intestinal, urinary, and generative canals open in birds, reptiles, amphibians, many fishes, and certain mammals (also an archaic term for a sewer)
 
 **cloudburst** - a sudden violent rainstorm
+
+**clowder** - a group of cats
 
 **coaxial** - having a common axis
 
@@ -402,11 +432,13 @@ These are some words I have collected over the past few months, many of them com
 
 **concomitant** - naturally accompanying or associated
 
-**conspecific** - of animals or plants) belonging to the same species
+**conspecific** - (of animals or plants) belonging to the same species
 
 **contraindication** - a specific situation in which a medicine, procedure, or surgery should not be used because it may be harmful to the person
 
 **contumacious** - refusing to obey or respect the law in a way that shows contempt
+
+**conventicle** - a secret or unlawful religious meeting, typically of people with nonconformist views
 
 **convolve** - to roll or wind together; coil; twist
 
@@ -464,6 +496,8 @@ These are some words I have collected over the past few months, many of them com
 
 **cumbrous** - a gross way to say cumbersome
 
+**curare** - a bitter, resinous substance obtained from the bark and stems of some South American plants; paralyzes the motor nerves
+
 **curlew** - a large wading bird of the sandpiper family, with a long down-curved bill, brown streaked plumage, and frequently a distinctive ascending two-note call
 
 **currach** - a type of Irish boat with a wooden frame, over which animal skins or hides were once stretched, though now canvas is more usual
@@ -494,11 +528,15 @@ These are some words I have collected over the past few months, many of them com
 
 **deliquesce** - (of organic matter) become liquid, typically during decomposition
 
+**deliquium** - loss of consciousness; fainting; (literary) a disappearance or absence, esp of light during an eclipse
+
 **delirium tremens** - a rapid onset of confusion usually caused by withdrawal from alcohol
 
 **demesne** - the part of a lord's land that he kept for his own use; property or territory
 
 **demimonde** - a class of women considered to be of doubtful social standing and morality; a group of people on the fringes of respectable society
+
+**dene** - (usually in place names) a vale, especially the deep, narrow wooded valley of a small river
 
 **depilatory** - a cosmetic for temporary removal of undesired hair
 
@@ -511,6 +549,8 @@ These are some words I have collected over the past few months, many of them com
 **dimber** - pretty; neat
 
 **dippy** - foolish
+
+**dis-ease** - lack of a feeling of ease; uneasiness (not the same as disease)
 
 **disembogue** - (of a river or stream) emerge or be discharged into the sea or a larger river
 
@@ -549,6 +589,8 @@ These are some words I have collected over the past few months, many of them com
 **draggle** - make (something) dirty or wet, typically by trailing it through mud or water; hang untidily; trail behind others; lag behind
 
 **dram** - a small portion of something to drink; a small amount
+
+**dram(shop)** - a bar, tavern or similar commercial establishment where alcoholic beverages are sold
 
 **drayage** - the transportation of shipping containers by truck to its final destination
 
@@ -601,6 +643,8 @@ These are some words I have collected over the past few months, many of them com
 **encarmine** - to turn red or cover in blood (being made red by spilling blood)
 
 **enceinte** - an enclosure or the enclosing wall of a fortified place
+
+**encomium** - a speech or piece of writing that praises someone or something highly
 
 **endling** - the last known individual of a species or subspecies
 
@@ -687,6 +731,8 @@ These are some words I have collected over the past few months, many of them com
 **fletton** - a type of relatively soft and porous brick made from Oxford clay
 
 **flitch** - a slab of timber cut from a tree trunk, usually from the outside; a side of bacon
+
+**flob** - to spit (informal)
 
 **flocculent** - soft and woolly, fluffy
 
@@ -780,6 +826,8 @@ These are some words I have collected over the past few months, many of them com
 
 **glazier** - a person whose profession is fitting glass into windows and doors
 
+**glebe** - a piece of land serving as part of a clergyman's benefice and providing income
+
 **gloaming** - twilight; dusk (no, it's not just gloam)
 
 **gnoll** - a usually evil and hyena-like humanoid creature found in various forms in fantasy literature and video games
@@ -803,6 +851,8 @@ These are some words I have collected over the past few months, many of them com
 **grok** - to understand (something) intuitively or by empathy
 
 **grook** - a brief, aphoristic poem, often containing irony or paradox (invented by Piet Hein)
+
+**grotty** - disgusting, dirty, poor quality
 
 **guff** - trivial or foolish talk or ideas
 
@@ -832,6 +882,8 @@ These are some words I have collected over the past few months, many of them com
 
 **hayward** - an officer having charge of hedges and fences around a town common, especially to keep cattle from breaking through and to impound stray cattle
 
+**hector** - talk to (someone) in a bullying way
+
 **heggler** - an egg haggler
 
 **henge** - a prehistoric monument consisting of a circle of stone or wooden uprights
@@ -850,6 +902,8 @@ These are some words I have collected over the past few months, many of them com
 
 **hoary** - grayish white; (of a person) having gray or white hair; aged; used in names of animals and plants covered with whitish fur or short hairs; old and trite
 
+**hod** - a builder's V-shaped open trough on a pole, used for carrying bricks and other building materials; a coal scuttle
+
 **hoi polloi** - the masses; the common people
 
 **hoick** - lift or pull abruptly with effort
@@ -865,6 +919,8 @@ These are some words I have collected over the past few months, many of them com
 **humpty** - a low padded seat; pouffe
 
 **hurble** - I swear Pratchett made this one up too but it sounds funny
+
+**hyperbaric** - of or involving a gas at a pressure greater than normal
 
 **hythe** - a landing-place in a river; a harbour or small port
 
@@ -904,10 +960,14 @@ These are some words I have collected over the past few months, many of them com
 
 **invar** - an alloy of iron and nickel with a negligible coefficient of expansion, used in the making of clocks and scientific instruments
 
+**invigilate** - supervise candidates during an examination
+
 **irrupt** - enter forcibly or suddenly
 
 
 ### J {#header-title-10}
+**jemmy** - a short crowbar used by a burglar to force open a window or door (jimmy)
+
 **jess** - a short leather strap that is fastened round each leg of a hawk
 
 **jib** - the projecting arm of a crane; a triangular staysail set forward of the forwardmost mast
@@ -929,6 +989,10 @@ These are some words I have collected over the past few months, many of them com
 **kakistocracy** - government by the least suitable or competent citizens of a state
 
 **kibitz** - look on and offer unwelcome advice, especially at a card game; speak informally/chat
+
+**kine** - cows collectively (plural of cow I guess)
+
+**kirtle** - a woman's gown or outer petticoat;  a man's tunic or coat
 
 **klatch** - an informal social gathering at which coffee is served.
 
@@ -964,6 +1028,8 @@ These are some words I have collected over the past few months, many of them com
 
 **legendarium** - a literary collection of legends, particularly those detailing the life of a saint
 
+**legless** - extremely drunk
+
 **lenticular** - shaped like a lentil, especially by being biconvex
 
 **lepidopterist** - a person who studies or collects butterflies and moths
@@ -995,6 +1061,8 @@ These are some words I have collected over the past few months, many of them com
 **lumenproletariat** - (especially in Marxist terminology) the unorganized and unpolitical lower orders of society who are not interested in revolutionary advancement
 
 **lunette** - something that has the shape of a crescent or half-moon
+
+**lurgy** - an imaginary illness allegedly passed on by touch—used as an excuse to avoid someone (ie cooties)
 
 **lyra** - a small northern constellation (the Lyre), said to represent the lyre invented by Hermes. It contains the bright star Vega
 
@@ -1068,6 +1136,8 @@ These are some words I have collected over the past few months, many of them com
 
 **monoxyl/monoxylon** - a canoe or boat made from a single piece of timber
 
+**moon (around)** - behave or move in a listless and aimless manner; act in a dreamily infatuated manner
+
 **moraine** - accumulation of earth and stones carried and finally deposited by a glacier
 
 **mordant** - (especially of humour) having or showing a sharp or critical quality; biting
@@ -1083,6 +1153,8 @@ These are some words I have collected over the past few months, many of them com
 **moule** - an edible type of mussel
 
 **mulct** - extract money from (someone) by fine or taxation; (mulct someone of) deprive someone of (money or possessions) by fraudulent means
+
+**mulligatawny** - a spicy meat or chicken soup originally made in India
 
 **mullion** - a vertical bar between the panes of glass in a window
 
@@ -1120,6 +1192,8 @@ These are some words I have collected over the past few months, many of them com
 
 **nisse** - a friendly goblin or brownie of Scandinavian folklore that frequents farm buildings
 
+**nobble** - try to influence or thwart (someone or something) by underhanded or unfair methods
+
 **noblesse oblige** - the inferred responsibility of privileged people to act with generosity and nobility toward those less privileged
 
 **noddle** - to nod (the head) quickly or slightly; also means head
@@ -1140,11 +1214,15 @@ These are some words I have collected over the past few months, many of them com
 
 **noosphere** - a level of shared consciousness that transcends boundaries of religion, culture, or ethnicity
 
+**nowt** - nothing
+
 **nugatory** - of no value or importance
 
 **numbles** - certain edible viscera (as the heart, lights, liver) of an animal (as a deer)
 
 **numinous** - having a strong religious or spiritual quality; indicating or suggesting the presence of a divinity
+
+**numpty** - a stupid or ineffectual person
 
 **nuncle** - a person's uncle (archaic)
 
@@ -1190,7 +1268,11 @@ These are some words I have collected over the past few months, many of them com
 
 **outrance** - the last extremity (used with 'at' or 'to')
 
+**overleaf** - on the other side of the page
+
 **oviform** - egg-shaped
+
+**owt** - anything
 
 
 ### P {#header-title-16}
@@ -1222,6 +1304,8 @@ These are some words I have collected over the past few months, many of them com
 
 **parfit** - dialectical way of saying perfect
 
+**parol** - given or expressed orally;  (of a document) agreed orally, or in writing but not under seal
+
 **parsimony** - extreme unwillingness to spend money or use resources
 
 **pate** - a person's head
@@ -1248,6 +1332,8 @@ These are some words I have collected over the past few months, many of them com
 
 **peristyle** - a row of columns surrounding a space within a building such as a court or edging a veranda or porch
 
+**pernickety** - fastidious, precise or over-precise (also persnickety)
+
 **peroration** - the concluding part of a speech, typically intended to inspire enthusiasm in the audience
 
 **persiflage** - frivolous bantering talk
@@ -1255,6 +1341,8 @@ These are some words I have collected over the past few months, many of them com
 **pessimal** - bad to a maximal extent; worst
 
 **pettifog** - quibble about petty points; practice legal deception or trickery
+
+**phantasm** - a figment of the imagination; an illusion or apparition; an illusory likeness of something
 
 **phantasmagoria** - a sequence of real or imaginary images like that seen in a dream
 
@@ -1302,6 +1390,8 @@ These are some words I have collected over the past few months, many of them com
 
 **poetaster** - a person who writes inferior poetry
 
+**polysemy** - the coexistence of many possible meanings for a word or phrase
+
 **polyvalent** - having many different functions, forms, or facets
 
 **pomade** - a scented ointment or oil applied to the hair
@@ -1329,6 +1419,8 @@ These are some words I have collected over the past few months, many of them com
 **potation** - a drink; the action of drinking alcohol; a drinking bout
 
 **potty** - eccentric, irrational, or having slightly impaired intellectual functioning; extremely enthusiastic about or fond of someone or something
+
+**prang** - crash (a motor vehicle or aircraft)
 
 **prebendary** - an honorary canon; a canon of a cathedral or collegiate church whose income originally came from a prebend
 
@@ -1390,6 +1482,8 @@ These are some words I have collected over the past few months, many of them com
 
 **puttee** - a long strip of cloth wound spirally around the leg from ankle to knee for protection and support; a leather legging
 
+**pyrography** - the act of producing drawings on wood or leather by using heated tools or a fine flame
+
 
 ### Q {#header-title-17}
 **quaestuary** - interested in or undertaken for monetary gain or profit
@@ -1430,6 +1524,8 @@ These are some words I have collected over the past few months, many of them com
 
 **rarefaction** - diminution in the density of something, especially air or a gas
 
+**rashers** - cuts of bacon
+
 **rebarbative** - unattractive and objectionable
 
 **recheat** - a hunting call sounded on a horn to assemble the hounds
@@ -1459,6 +1555,8 @@ These are some words I have collected over the past few months, many of them com
 **rogation** - (in the Christian Church) a solemn supplication consisting of the litany of the saints chanted on the three days before Ascension Day
 
 **roister** - enjoy oneself or celebrate in a noisy or boisterous way
+
+**ropey** - (informal) chancy; of poor quality; uncertain; dodgy
 
 **rotgut** - poor-quality and potentially toxic alcoholic liquor
 
@@ -1548,6 +1646,8 @@ These are some words I have collected over the past few months, many of them com
 
 **scutage** - a payment exacted by a lord in lieu of military service due to him by the holder of a fee
 
+**scuttle** - a metal container with a sloping hinged lid and a handle, used to fetch and store coal for a domestic fire
+
 **sebaceous** - relating to oil or fat
 
 **secondment** - the detachment of a person (such as a military officer) from his or her regular organization for temporary assignment elsewhere
@@ -1585,6 +1685,8 @@ These are some words I have collected over the past few months, many of them com
 **sheel** - to shell; to take off the husk or outer covering of (alternate spelling of 'shell')
 
 **shekel** - a silver coin and unit of weight used in ancient Israel and the Middle East; money, wealth
+
+**shirr** - bake (an egg without its shell); gather (an area of fabric or part of a garment) by means of drawn or elasticized threads in parallel rows
 
 **shirty** - angry; irritated
 
@@ -1690,6 +1792,8 @@ These are some words I have collected over the past few months, many of them com
 
 **squiffy** - slightly drunk; askew, awry (a personal favourite of mine)
 
+**squiz** - (rare) look, most often used in the form "to have a squiz at"
+
 **stela/stele** - an upright stone slab or column typically bearing a commemorative inscription or relief design, often serving as a gravestone
 
 **stepwells** - wells, cisterns or ponds with a long corridor of steps that descend to the water level
@@ -1722,6 +1826,8 @@ These are some words I have collected over the past few months, many of them com
 
 **suppurate** - to form or discharge pus
 
+**suspire** - breathe
+
 **sutler** - a person who followed an army and sold provisions to the soldiers
 
 **swale** - low-lying or depressed and often wet stretch of land
@@ -1735,6 +1841,8 @@ These are some words I have collected over the past few months, many of them com
 **swish** - impressively smart and fashionable
 
 **swizzle** - a mixed alcoholic drink, especially a frothy one of rum or gin and bitters; to stir a drink with a swizzle stick
+
+**swot** - to study for an exam; (derogatory) aloof and unpopular schoolchild or student who studies to excess
 
 **swozzle** - a small metal instrument held in the mouth of a Punch and Judy puppeteer, used to produce the characteristic shrill voice of Mr Punch or similar vocal timbres (also spelled swazzle)
 
@@ -1776,6 +1884,8 @@ These are some words I have collected over the past few months, many of them com
 
 **thew** - muscular strength
 
+**thole** - a pin, typically one of a pair, fitted to the gunwale of a rowboat to act as the fulcrum for an oar
+
 **thurible** - a censer (swinging incense thing at church)
 
 **tiercel** - the male of a hawk, especially a peregrine or a goshawk
@@ -1786,6 +1896,8 @@ These are some words I have collected over the past few months, many of them com
 
 **tintinnabulation** - a ringing or tinkling sound (try saying it 10 times fast)
 
+**tisane** - a herbal tea; a medicinal drink or infusion, originally one made with barley
+
 **tittle** - a tiny amount or part of something
 
 **tittup** - lively, gay, or restless behavior; to move in a lively manner often with an exaggerated or affected action
@@ -1793,6 +1905,8 @@ These are some words I have collected over the past few months, many of them com
 **tocsin** - an alarm bell or signal (archaic use)
 
 **toddy** - a drink made of alcoholic liquor with hot water, sugar, and sometimes spices; the sap of some kinds of palm, fermented to produce arrack
+
+**toffee-nosed** - antisocial in a pretentious way, stuck up
 
 **tomorn** - tomorrow (to morn)
 
@@ -1803,6 +1917,8 @@ These are some words I have collected over the past few months, many of them com
 **topping** - (British) excellent; wonderful
 
 **tosheroon** - a coin with the value of half a crown
+
+**tosspot** - a stupid or obnoxious person; a heavy drinker
 
 **toxophily** - love of the bow (as in bow and arrow/archery)
 
@@ -1817,6 +1933,8 @@ These are some words I have collected over the past few months, many of them com
 **treadle** - a lever worked by the foot and imparting motion to a machine, or to operate (a machine) with a treadle
 
 **tregetour** - none who practised legerdemain or sleight of hand
+
+**trephine** - a hole saw used in surgery to remove a circle of tissue or bone
 
 **trews** - men's clothing for the legs and lower abdomen, a traditional form of tartan trousers from Scottish Highland dress
 
@@ -1871,6 +1989,8 @@ These are some words I have collected over the past few months, many of them com
 **vambrace** - piece of armor for the forearm
 
 **vamp** - a woman who uses her charm or wiles to seduce and exploit men; (verb) to practice seductive wiles on
+
+**varmint** - a troublesome wild animal; aa troublesome and mischievous person, especially a child
 
 **veldt** - open, uncultivated country or grassland in southern Africa, conventionally divided by altitude into highveld, middleveld, and lowveld
 
@@ -1971,6 +2091,8 @@ These are some words I have collected over the past few months, many of them com
 **yoick** - to urge on (foxhounds) by crying "yoicks"
 
 **yomp** - to walk quickly and energetically, usually while carrying a lot of equipment
+
+**yonks** - a very long time (as in "I haven't seen her for yonks")
 
 
 ### Z {#header-title-26}
