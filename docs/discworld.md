@@ -79,3 +79,4 @@ For all that cool Discworld stuff!
 * The Long Earth
 * The Bromeliad Trilogy
 * The Johnny Maxwell Trilogy
+* Dodger
