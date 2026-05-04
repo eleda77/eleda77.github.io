@@ -216,8 +216,6 @@ These are some words I have collected over the past few months, many of them com
 
 **astromancy** - divination by the stars; astrology
 
-**athunderhead** - a rounded, projecting head of a cumulus cloud, which portends a thunderstorm
-
 **atlatl** - wooden implement used to throw a spear or similar weapon at a greater speed or distance
 
 **atomy** - a skeleton or emaciated body
