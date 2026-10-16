@@ -5,7 +5,7 @@ title: Word Collection
 ## A List of Esoteric Words {#header-title-0}
 These are some words I have collected over the past few months, many of them coming from Terry Pratchett's *Discworld* series. I thought it might be fun to have a collection of new and unusual words together with their definitions in my own sort of personal dictionary. Please note that definitions are generally not my own, and I choose either the one I didn't know or the ones that I find most interesting/relevant.
 
-**Current Favourite Word:** tipple
+**Current Favourite Word:** squiffy
 
 **Runner-Up:** embiggen
 
@@ -78,9 +78,13 @@ These are some words I have collected over the past few months, many of them com
 
 **agglutinate** - firmly stick or be stuck together to form a mass
 
+**agita** - anxiety, stress, or aggravation
+
 **agoggle** - staring with wide eyes (I'm assuming this is an earlier form of agog)
 
 **alack** - an expression of regret or dismay
+
+**albedo** - the proportion of the incident light or radiation that is reflected by a surface, typically that of a planet or moon
 
 **albifrons** - having a white front, especially having white mark on the forehead
 
@@ -135,6 +139,8 @@ These are some words I have collected over the past few months, many of them com
 **anode** - the negatively charged electrode of a device supplying current such as a primary cell
 
 **anodyne** - not likely to provoke dissent or offense; inoffensive, often deliberately so
+
+**anomie** - lack of the usual social or ethical standards in an individual or group
 
 **anorak** - a studious or obsessive person with unfashionable and largely solitary interests; nerd
 
@@ -232,6 +238,8 @@ These are some words I have collected over the past few months, many of them com
 
 **astromancy** - divination by the stars; astrology
 
+**ataraxy** - a state of serene calmness
+
 **atlatl** - wooden implement used to throw a spear or similar weapon at a greater speed or distance
 
 **atomy** - a skeleton or emaciated body
@@ -249,6 +257,8 @@ These are some words I have collected over the past few months, many of them com
 **autoclave** - a strong heated container used for chemical reactions and other processes using high pressures and temperatures, e.g. steam sterilization
 
 **autocondimentor** - that interesting type of person who automatically adds seasoning to their food no matter the dish or circumstances, irregardless of flavour (definitely a Pratchett-invented word)
+
+**automaticity** - the condition of being done or occurring spontaneously, without conscious thought or attention; a situation or arrangement whereby something occurs or is done as a matter of course and without debate
 
 **autopia** - an urban landscape designed for use by the automobile
 
@@ -424,6 +434,8 @@ These are some words I have collected over the past few months, many of them com
 
 **bugbear** - a cause of obsessive fear, irritation, or loathing; an imaginary being invoked to frighten children, typically a sort of hobgoblin supposed to devour them
 
+**bumfuzzle** - to confuse or fluster
+
 **bung** - a stopper for closing a hole in a container; block something by overfilling it
 
 **bure** - a large house or temple in the Fiji islands; or a moderate yellowish-brown color
@@ -537,6 +549,8 @@ These are some words I have collected over the past few months, many of them com
 **celadon** - a willow-green color; a gray-green glaze used on pottery, especially that from China
 
 **cellarette** - a cabinet for keeping bottles of wine and liquor
+
+**cerebration** - the working of the brain; thinking
 
 **cerise** - a light clear red colour
 
@@ -714,6 +728,8 @@ These are some words I have collected over the past few months, many of them com
 
 **copperas** - green crystals of hydrated ferrous sulfate, especially as an industrial product
 
+**copperplate** - a style of neat, round handwriting, usually slanted and looped, the thick and thin strokes being made by pressure with a flexible metal nib
+
 **coppice** - an area of closely planted trees in which the trees are cut back regularly to provide wood (older version of 'copse')
 
 **coprolite** - (in paleontology) a piece of fossilized dung
@@ -837,6 +853,8 @@ These are some words I have collected over the past few months, many of them com
 **declaim** - utter or deliver words or a speech in a rhetorical or impassioned way, as if to an audience
 
 **declension** - a condition of decline or moral deterioration
+
+**decoction** - the liquor resulting from concentrating the essence of a substance by heating or boiling, especially a medicinal preparation made from a plant
 
 **decoupage** - the art or craft of decorating objects with paper cut-outs
 
@@ -1094,6 +1112,8 @@ These are some words I have collected over the past few months, many of them com
 
 **exonym** - a name for a place or group of people that is only used outside that place or group
 
+**exoplanet** - a planet that orbits a star outside the solar system
+
 **exostosis** - a benign outgrowth of cartilaginous tissue on a bone
 
 **expropriate** - take away (property) from its owner; dispossess (someone) of property
@@ -1181,6 +1201,8 @@ These are some words I have collected over the past few months, many of them com
 **foliate** - (adj) decorated with leaves or leaflike motifs
 
 **footling** - lacking judgment or ability, inept; lacking use or value, trivial
+
+**footpad** - a highwayman operating on foot rather than riding a horse
 
 **foozle** - a clumsy or botched attempt at something, especially a shot in golf; botch, bungle
 
@@ -1287,6 +1309,8 @@ These are some words I have collected over the past few months, many of them com
 **glissade** - a way of sliding down a steep slope of snow or ice, typically on the feet with the support of an ice axe
 
 **gloaming** - twilight; dusk (no, it's not just gloam)
+
+**glottography** - a writing system where written symbols correspond to speech
 
 **gnoll** - a usually evil and hyena-like humanoid creature found in various forms in fantasy literature and video games
 
@@ -1572,6 +1596,10 @@ These are some words I have collected over the past few months, many of them com
 
 **lambent** - (of light or fire) glowing, gleaming, or flickering with a soft radiance
 
+**lamina** - a thin layer, plate, or scale of sedimentary rock, organic tissue, or other material
+
+**laminal** - (of a consonant) formed with the blade of the tongue touching the alveolar ridge (e.g., n, s, t)
+
 **laminar** - relating to or consisting of thin layers
 
 **lapidary** - relating to stone and gems and the work involved in engraving, cutting, or polishing; (of language) engraved on or suitable for engraving on stone and therefore elegant and concise
@@ -1666,6 +1694,8 @@ These are some words I have collected over the past few months, many of them com
 
 **malapert** - boldly disrespectful to a person of higher standing
 
+**malm** - a soft, crumbly chalky rock, or the fertile loamy soil produced as it weathers
+
 **malmsey** - a fortified Madeira wine of the sweetest type
 
 **maltster** - a maker of malt for use in brewing or distilling
@@ -1673,6 +1703,8 @@ These are some words I have collected over the past few months, many of them com
 **manchet** - wheaten bread of highest quality
 
 **manky** - worthless, rotten, or in bad taste
+
+**manna** - an unexpected or gratuitous benefit
 
 **manny** - a male nanny
 
@@ -1735,6 +1767,8 @@ These are some words I have collected over the past few months, many of them com
 **miltate** - (of a fact or circumstance) be a powerful or conclusive factor in preventing
 
 **mimeograph** - a duplicating machine which produces copies from a stencil, now superseded by the photocopier
+
+**minim** - one sixtieth of a fluid dram, about one drop of liquid; a short vertical stroke, as in the letters i, m, n, u
 
 **miniver** - plain white fur used for lining or trimming clothes
 
@@ -2066,6 +2100,8 @@ These are some words I have collected over the past few months, many of them com
 
 **philistine** - a person who is hostile or indifferent to culture and the arts, or who has no understanding of them (or adjective in that it describes someone like that)
 
+**phiz** - a person's face or expression
+
 **phlogiston** - a substance supposed by 18th-century chemists to exist in all combustible bodies, and to be released in combustion
 
 **pianism** - artistry or technical skill in playing the piano, or in composing piano music
@@ -2128,6 +2164,8 @@ These are some words I have collected over the past few months, many of them com
 
 **poltroon** - an utter coward
 
+**polysemous** - the coexistence of many possible meanings for a word or phrase
+
 **polysemy** - the coexistence of many possible meanings for a word or phrase
 
 **polyvalent** - having many different functions, forms, or facets
@@ -2167,6 +2205,8 @@ These are some words I have collected over the past few months, many of them com
 **potty** - eccentric, irrational, or having slightly impaired intellectual functioning; extremely enthusiastic about or fond of someone or something
 
 **prang** - crash (a motor vehicle or aircraft)
+
+**praxis** - practice, as distinguished from theory; accepted practice or custom
 
 **prebendary** - an honorary canon; a canon of a cathedral or collegiate church whose income originally came from a prebend
 
@@ -2249,6 +2289,8 @@ These are some words I have collected over the past few months, many of them com
 **puttee** - a long strip of cloth wound spirally around the leg from ankle to knee for protection and support; a leather legging
 
 **putto** - a representation of a naked child, especially a cherub or a cupid in Renaissance art
+
+**pyroclastic** - relating to, consisting of, or denoting fragments of rock erupted by a volcano
 
 **pyrography** - the act of producing drawings on wood or leather by using heated tools or a fine flame
 
@@ -2430,7 +2472,7 @@ These are some words I have collected over the past few months, many of them com
 
 **scintillant** - glittering
 
-**scion** - descendant of a wealthy, aristocratic, or influential family
+**scion** - a young shoot or twig of a plant, especially one cut for grafting or rooting; a descendant of a notable family
 
 **sclerotic** - becoming rigid and unresponsive; losing the ability to adapt
 
@@ -2499,6 +2541,8 @@ These are some words I have collected over the past few months, many of them com
 **selachian** - any of the classified group (Selachii) of cartilaginous fishes that includes the existing sharks and dogfishes among others
 
 **selenaut** - (literally) moon sailor
+
+**semasiography** - the use of symbols to communicate information, such as with musical or mathematical notation, road signs, or emojis
 
 **semiosis** - the process of signification in language or literature
 
@@ -2674,6 +2718,8 @@ These are some words I have collected over the past few months, many of them com
 
 **starling** - a defensive bulwark, usually built with pilings or bricks or blocks of stone, surrounding the supports (or piers) of a bridge or similar construction
 
+**steeplejack** - a person who climbs tall structures such as chimneys and steeples in order to carry out repairs
+
 **stela/stele** - an upright stone slab or column typically bearing a commemorative inscription or relief design, often serving as a gravestone
 
 **stepwells** - wells, cisterns or ponds with a long corridor of steps that descend to the water level
@@ -2763,6 +2809,8 @@ These are some words I have collected over the past few months, many of them com
 **tax** - confront (someone) with a fault or wrongdoing
 
 **teasel** - a tall prickly Eurasian plant with spiny purple flower heads
+
+**telegenic** - having an appearance or manner that is appealing on television
 
 **tellurian** - of or inhabiting the earth; an inhabitant of the earth
 
